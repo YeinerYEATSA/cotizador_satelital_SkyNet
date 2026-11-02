@@ -1,0 +1,4 @@
+nombre,capacidad,antena,modem,precio_usd,bandas,satelite
+Plan 10 Mbps,10,0.75m,HT2000,80,KU,Satelital Hughes
+Plan 20 Mbps,20,0.98m,HT2000,120,KU,Satelital Starlink
+Plan 50 Mbps,50,1.2m,HT3000,200,KA,Satelital Starlink

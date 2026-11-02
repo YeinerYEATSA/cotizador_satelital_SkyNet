@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administracion - SkyNet</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos.css') }}">
+</head>
+<body>
+    <header class="topbar">
+        <div class="brand">
+            <span class="brand-mark">C</span>
+            <span>Administracion SkyNet</span>
+        </div>
+        <nav class="nav-links">
+            <a href="{{ url_for('index') }}">Volver al cotizador</a>
+            <a href="{{ url_for('logout') }}">Cerrar sesion</a>
+        </nav>
+    </header>
+
+    <main class="admin-page">
+        <section class="admin-heading">
+            <p class="eyebrow">Configuracion operativa</p>
+            <h1>Gestion de datos</h1>
+            <p class="subtitle">Actualiza municipios, cobertura y planes desde archivos CSV validados.</p>
+        </section>
+
+        {% if request.args.get('error') %}
+            <div class="alert alert-danger">{{ request.args.get('error') }}</div>
+        {% endif %}
+        {% if request.args.get('success') %}
+            <div class="alert alert-success">{{ request.args.get('success') }}</div>
+        {% endif %}
+
+        <section class="admin-grid">
+            {% for dataset in datasets %}
+                <article class="panel admin-card">
+                    <div class="panel-header">
+                        <div>
+                            <h2>{{ dataset.key|capitalize }}</h2>
+                            <small class="muted">{{ dataset.filename }} · {{ dataset.rows }} registros</small>
+                        </div>
+                        <span class="badge accent">CSV</span>
+                    </div>
+                    <p class="admin-columns"><strong>Columnas:</strong> {{ dataset.columns }}</p>
+                    <form method="post" action="{{ url_for('cargar_datos_admin') }}" enctype="multipart/form-data">
+                        <input type="hidden" name="dataset" value="{{ dataset.key }}">
+                        <label for="archivo-{{ dataset.key }}">Archivo actualizado</label>
+                        <input id="archivo-{{ dataset.key }}" type="file" name="archivo" accept=".csv,text/csv" required>
+                        <button type="submit" class="btn primary">Validar y actualizar</button>
+                    </form>
+                </article>
+            {% endfor %}
+        </section>
+    </main>
+</body>
+</html>

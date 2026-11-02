@@ -1,0 +1,1699 @@
+municipio,departamento,banda,satelite,beam,zona
+Cahuinarí,Amazonas,C,Satelital Hughes,SUR-0001-001,SUR
+Cahuinarí,Amazonas,L,Satelital Inmarsat,SUR-0001-002,SUR
+El Encanto,Amazonas,KU,Satelital Iridium,SUR-0002-001,SUR
+La Chorrera,Amazonas,KU,Satelital Hughes,SUR-0003-001,SUR
+La Pedrera,Amazonas,KA,Satelital Iridium,SUR-0004-001,SUR
+La Victoria,Amazonas,L,Satelital Hughes,SUR-0005-001,SUR
+Leticia,Amazonas,L,Satelital Hughes,SUR-0006-001,SUR
+Leticia,Amazonas,C,Satelital Starlink,SUR-0006-002,SUR
+Miriti - Paraná,Amazonas,C,Satelital Iridium,SUR-0007-001,SUR
+Puerto Alegría,Amazonas,KA,Satelital Inmarsat,SUR-0008-001,SUR
+Puerto Alegría,Amazonas,KU,Satelital Hughes,SUR-0008-002,SUR
+Puerto Arica,Amazonas,L,Satelital Inmarsat,SUR-0009-001,SUR
+Puerto Nariño,Amazonas,L,Satelital Iridium,SUR-0010-001,SUR
+Puerto Nariño,Amazonas,KA,Satelital Starlink,SUR-0010-002,SUR
+Tarapacá,Amazonas,C,Satelital Inmarsat,SUR-0011-001,SUR
+Abejorral,Antioquia,C,Satelital Inmarsat,OCC-0012-001,OCCIDENTE
+Abejorral,Antioquia,KA,Satelital Starlink,OCC-0012-002,OCCIDENTE
+Abriaquí,Antioquia,L,Satelital Iridium,OCC-0013-001,OCCIDENTE
+Abriaquí,Antioquia,KA,Satelital Inmarsat,OCC-0013-002,OCCIDENTE
+Alejandría,Antioquia,L,Satelital Starlink,OCC-0014-001,OCCIDENTE
+Alejandría,Antioquia,KA,Satelital Starlink,OCC-0014-002,OCCIDENTE
+Amagá,Antioquia,KA,Satelital Iridium,OCC-0015-001,OCCIDENTE
+Amalfi,Antioquia,KU,Satelital Hughes,OCC-0016-001,OCCIDENTE
+Andes,Antioquia,C,Satelital Inmarsat,OCC-0017-001,OCCIDENTE
+Andes,Antioquia,L,Satelital Inmarsat,OCC-0017-002,OCCIDENTE
+Angelópolis,Antioquia,L,Satelital Iridium,OCC-0018-001,OCCIDENTE
+Angelópolis,Antioquia,L,Satelital Starlink,OCC-0018-002,OCCIDENTE
+Angostura,Antioquia,KU,Satelital Inmarsat,OCC-0019-001,OCCIDENTE
+Anorí,Antioquia,KU,Satelital Starlink,OCC-0020-001,OCCIDENTE
+Anza,Antioquia,L,Satelital Hughes,OCC-0021-001,OCCIDENTE
+Apartadó,Antioquia,C,Satelital Inmarsat,OCC-0022-001,OCCIDENTE
+Arboletes,Antioquia,KA,Satelital Hughes,OCC-0023-001,OCCIDENTE
+Argelia,Antioquia,KU,Satelital Hughes,OCC-0024-001,OCCIDENTE
+Argelia,Antioquia,L,Satelital Inmarsat,OCC-0024-002,OCCIDENTE
+Armenia,Antioquia,KA,Satelital Starlink,OCC-0025-001,OCCIDENTE
+Armenia,Antioquia,KA,Satelital Starlink,OCC-0025-002,OCCIDENTE
+Barbosa,Antioquia,KU,Satelital Starlink,OCC-0026-001,OCCIDENTE
+Barbosa,Antioquia,L,Satelital Inmarsat,OCC-0026-002,OCCIDENTE
+Bello,Antioquia,KA,Satelital Inmarsat,OCC-0027-001,OCCIDENTE
+Belmira,Antioquia,L,Satelital Iridium,OCC-0028-001,OCCIDENTE
+Belmira,Antioquia,KA,Satelital Hughes,OCC-0028-002,OCCIDENTE
+Betania,Antioquia,KA,Satelital Starlink,OCC-0029-001,OCCIDENTE
+Betulia,Antioquia,L,Satelital Iridium,OCC-0030-001,OCCIDENTE
+Briceño,Antioquia,KU,Satelital Starlink,OCC-0031-001,OCCIDENTE
+Briceño,Antioquia,L,Satelital Hughes,OCC-0031-002,OCCIDENTE
+Buriticá,Antioquia,C,Satelital Hughes,OCC-0032-001,OCCIDENTE
+Caicedo,Antioquia,KA,Satelital Starlink,OCC-0033-001,OCCIDENTE
+Caldas,Antioquia,KA,Satelital Iridium,OCC-0034-001,OCCIDENTE
+Campamento,Antioquia,KU,Satelital Starlink,OCC-0035-001,OCCIDENTE
+Campamento,Antioquia,KU,Satelital Inmarsat,OCC-0035-002,OCCIDENTE
+Caracolí,Antioquia,KA,Satelital Iridium,OCC-0036-001,OCCIDENTE
+Caracolí,Antioquia,KA,Satelital Iridium,OCC-0036-002,OCCIDENTE
+Caramanta,Antioquia,KU,Satelital Hughes,OCC-0037-001,OCCIDENTE
+Caramanta,Antioquia,L,Satelital Hughes,OCC-0037-002,OCCIDENTE
+Carepa,Antioquia,KU,Satelital Iridium,OCC-0038-001,OCCIDENTE
+Carolina,Antioquia,C,Satelital Hughes,OCC-0039-001,OCCIDENTE
+Carolina,Antioquia,KU,Satelital Iridium,OCC-0039-002,OCCIDENTE
+Caucasia,Antioquia,L,Satelital Inmarsat,OCC-0040-001,OCCIDENTE
+Cañasgordas,Antioquia,KU,Satelital Starlink,OCC-0041-001,OCCIDENTE
+Cañasgordas,Antioquia,L,Satelital Starlink,OCC-0041-002,OCCIDENTE
+Chigorodó,Antioquia,L,Satelital Starlink,OCC-0042-001,OCCIDENTE
+Chigorodó,Antioquia,KA,Satelital Inmarsat,OCC-0042-002,OCCIDENTE
+Cisneros,Antioquia,KU,Satelital Iridium,OCC-0043-001,OCCIDENTE
+Ciudad Bolívar,Antioquia,L,Satelital Starlink,OCC-0044-001,OCCIDENTE
+Cocorná,Antioquia,KU,Satelital Starlink,OCC-0045-001,OCCIDENTE
+Cocorná,Antioquia,C,Satelital Starlink,OCC-0045-002,OCCIDENTE
+Concepción,Antioquia,C,Satelital Inmarsat,OCC-0046-001,OCCIDENTE
+Concepción,Antioquia,L,Satelital Hughes,OCC-0046-002,OCCIDENTE
+Concordia,Antioquia,C,Satelital Hughes,OCC-0047-001,OCCIDENTE
+Copacabana,Antioquia,KU,Satelital Inmarsat,OCC-0048-001,OCCIDENTE
+Copacabana,Antioquia,C,Satelital Iridium,OCC-0048-002,OCCIDENTE
+Cáceres,Antioquia,KA,Satelital Iridium,OCC-0049-001,OCCIDENTE
+Cáceres,Antioquia,KA,Satelital Inmarsat,OCC-0049-002,OCCIDENTE
+Dabeiba,Antioquia,L,Satelital Inmarsat,OCC-0050-001,OCCIDENTE
+Don Matías,Antioquia,L,Satelital Iridium,OCC-0051-001,OCCIDENTE
+Don Matías,Antioquia,KA,Satelital Inmarsat,OCC-0051-002,OCCIDENTE
+Ebéjico,Antioquia,KA,Satelital Starlink,OCC-0052-001,OCCIDENTE
+El Bagre,Antioquia,KU,Satelital Inmarsat,OCC-0053-001,OCCIDENTE
+El Bagre,Antioquia,L,Satelital Inmarsat,OCC-0053-002,OCCIDENTE
+El Carmen De Viboral,Antioquia,C,Satelital Inmarsat,OCC-0054-001,OCCIDENTE
+El Santuario,Antioquia,C,Satelital Iridium,OCC-0055-001,OCCIDENTE
+Entrerrios,Antioquia,KA,Satelital Starlink,OCC-0056-001,OCCIDENTE
+Envigado,Antioquia,C,Satelital Iridium,OCC-0057-001,OCCIDENTE
+Fredonia,Antioquia,L,Satelital Hughes,OCC-0058-001,OCCIDENTE
+Frontino,Antioquia,KA,Satelital Starlink,OCC-0059-001,OCCIDENTE
+Giraldo,Antioquia,KU,Satelital Inmarsat,OCC-0060-001,OCCIDENTE
+Girardota,Antioquia,L,Satelital Starlink,OCC-0061-001,OCCIDENTE
+Girardota,Antioquia,L,Satelital Starlink,OCC-0061-002,OCCIDENTE
+Granada,Antioquia,KA,Satelital Starlink,OCC-0062-001,OCCIDENTE
+Granada,Antioquia,L,Satelital Iridium,OCC-0062-002,OCCIDENTE
+Guadalupe,Antioquia,KU,Satelital Starlink,OCC-0063-001,OCCIDENTE
+Guarne,Antioquia,C,Satelital Iridium,OCC-0064-001,OCCIDENTE
+Guarne,Antioquia,L,Satelital Inmarsat,OCC-0064-002,OCCIDENTE
+Guatapé,Antioquia,KU,Satelital Inmarsat,OCC-0065-001,OCCIDENTE
+Guatapé,Antioquia,KU,Satelital Starlink,OCC-0065-002,OCCIDENTE
+Gómez Plata,Antioquia,L,Satelital Iridium,OCC-0066-001,OCCIDENTE
+Gómez Plata,Antioquia,KA,Satelital Inmarsat,OCC-0066-002,OCCIDENTE
+Heliconia,Antioquia,L,Satelital Inmarsat,OCC-0067-001,OCCIDENTE
+Hispania,Antioquia,KU,Satelital Inmarsat,OCC-0068-001,OCCIDENTE
+Itagui,Antioquia,KU,Satelital Starlink,OCC-0069-001,OCCIDENTE
+Itagui,Antioquia,C,Satelital Inmarsat,OCC-0069-002,OCCIDENTE
+Ituango,Antioquia,KU,Satelital Starlink,OCC-0070-001,OCCIDENTE
+Jardín,Antioquia,L,Satelital Inmarsat,OCC-0071-001,OCCIDENTE
+Jericó,Antioquia,KU,Satelital Iridium,OCC-0072-001,OCCIDENTE
+Jericó,Antioquia,KA,Satelital Starlink,OCC-0072-002,OCCIDENTE
+La Ceja,Antioquia,KA,Satelital Iridium,OCC-0073-001,OCCIDENTE
+La Estrella,Antioquia,KU,Satelital Inmarsat,OCC-0074-001,OCCIDENTE
+La Estrella,Antioquia,KA,Satelital Inmarsat,OCC-0074-002,OCCIDENTE
+La Pintada,Antioquia,L,Satelital Hughes,OCC-0075-001,OCCIDENTE
+La Unión,Antioquia,C,Satelital Inmarsat,OCC-0076-001,OCCIDENTE
+La Unión,Antioquia,KU,Satelital Inmarsat,OCC-0076-002,OCCIDENTE
+Liborina,Antioquia,C,Satelital Inmarsat,OCC-0077-001,OCCIDENTE
+Liborina,Antioquia,KA,Satelital Iridium,OCC-0077-002,OCCIDENTE
+Maceo,Antioquia,L,Satelital Starlink,OCC-0078-001,OCCIDENTE
+Maceo,Antioquia,KA,Satelital Starlink,OCC-0078-002,OCCIDENTE
+Marinilla,Antioquia,KU,Satelital Iridium,OCC-0079-001,OCCIDENTE
+Medellín,Antioquia,C,Satelital Iridium,OCC-0080-001,OCCIDENTE
+Montebello,Antioquia,C,Satelital Inmarsat,OCC-0081-001,OCCIDENTE
+Montebello,Antioquia,L,Satelital Iridium,OCC-0081-002,OCCIDENTE
+Murindó,Antioquia,L,Satelital Inmarsat,OCC-0082-001,OCCIDENTE
+Murindó,Antioquia,C,Satelital Hughes,OCC-0082-002,OCCIDENTE
+Mutatá,Antioquia,C,Satelital Iridium,OCC-0083-001,OCCIDENTE
+Nariño,Antioquia,C,Satelital Hughes,OCC-0084-001,OCCIDENTE
+Nariño,Antioquia,KA,Satelital Inmarsat,OCC-0084-002,OCCIDENTE
+Nechí,Antioquia,KU,Satelital Inmarsat,OCC-0085-001,OCCIDENTE
+Nechí,Antioquia,KU,Satelital Iridium,OCC-0085-002,OCCIDENTE
+Necoclí,Antioquia,KU,Satelital Iridium,OCC-0086-001,OCCIDENTE
+Olaya,Antioquia,L,Satelital Hughes,OCC-0087-001,OCCIDENTE
+Peque,Antioquia,KA,Satelital Hughes,OCC-0088-001,OCCIDENTE
+Peñol,Antioquia,KA,Satelital Iridium,OCC-0089-001,OCCIDENTE
+Peñol,Antioquia,KA,Satelital Hughes,OCC-0089-002,OCCIDENTE
+Pueblorrico,Antioquia,L,Satelital Starlink,OCC-0090-001,OCCIDENTE
+Puerto Berrío,Antioquia,KU,Satelital Inmarsat,OCC-0091-001,OCCIDENTE
+Puerto Nare,Antioquia,KA,Satelital Starlink,OCC-0092-001,OCCIDENTE
+Puerto Triunfo,Antioquia,L,Satelital Hughes,OCC-0093-001,OCCIDENTE
+Puerto Triunfo,Antioquia,C,Satelital Starlink,OCC-0093-002,OCCIDENTE
+Remedios,Antioquia,L,Satelital Hughes,OCC-0094-001,OCCIDENTE
+Remedios,Antioquia,KU,Satelital Iridium,OCC-0094-002,OCCIDENTE
+Retiro,Antioquia,KU,Satelital Iridium,OCC-0095-001,OCCIDENTE
+Rionegro,Antioquia,C,Satelital Hughes,OCC-0096-001,OCCIDENTE
+Sabanalarga,Antioquia,L,Satelital Inmarsat,OCC-0097-001,OCCIDENTE
+Sabanalarga,Antioquia,KA,Satelital Hughes,OCC-0097-002,OCCIDENTE
+Sabaneta,Antioquia,C,Satelital Iridium,OCC-0098-001,OCCIDENTE
+Salgar,Antioquia,KU,Satelital Iridium,OCC-0099-001,OCCIDENTE
+Salgar,Antioquia,C,Satelital Hughes,OCC-0099-002,OCCIDENTE
+San Andrés De Cuerquía,Antioquia,C,Satelital Starlink,OCC-0100-001,OCCIDENTE
+San Andrés De Cuerquía,Antioquia,KA,Satelital Starlink,OCC-0100-002,OCCIDENTE
+San Carlos,Antioquia,C,Satelital Inmarsat,OCC-0101-001,OCCIDENTE
+San Francisco,Antioquia,L,Satelital Inmarsat,OCC-0102-001,OCCIDENTE
+San Jerónimo,Antioquia,L,Satelital Starlink,OCC-0103-001,OCCIDENTE
+San José De La Montaña,Antioquia,KA,Satelital Hughes,OCC-0104-001,OCCIDENTE
+San José De La Montaña,Antioquia,KU,Satelital Inmarsat,OCC-0104-002,OCCIDENTE
+San Juan De Urabá,Antioquia,KA,Satelital Starlink,OCC-0105-001,OCCIDENTE
+San Luis,Antioquia,KU,Satelital Hughes,OCC-0106-001,OCCIDENTE
+San Luis,Antioquia,L,Satelital Iridium,OCC-0106-002,OCCIDENTE
+San Pedro,Antioquia,KU,Satelital Inmarsat,OCC-0107-001,OCCIDENTE
+San Pedro,Antioquia,KU,Satelital Iridium,OCC-0107-002,OCCIDENTE
+San Pedro De Uraba,Antioquia,C,Satelital Inmarsat,OCC-0108-001,OCCIDENTE
+San Rafael,Antioquia,KU,Satelital Inmarsat,OCC-0109-001,OCCIDENTE
+San Roque,Antioquia,KA,Satelital Inmarsat,OCC-0110-001,OCCIDENTE
+San Roque,Antioquia,C,Satelital Hughes,OCC-0110-002,OCCIDENTE
+San Vicente,Antioquia,KA,Satelital Inmarsat,OCC-0111-001,OCCIDENTE
+San Vicente,Antioquia,C,Satelital Iridium,OCC-0111-002,OCCIDENTE
+Santa Bárbara,Antioquia,L,Satelital Inmarsat,OCC-0112-001,OCCIDENTE
+Santa Rosa De Osos,Antioquia,L,Satelital Inmarsat,OCC-0113-001,OCCIDENTE
+Santa Rosa De Osos,Antioquia,C,Satelital Starlink,OCC-0113-002,OCCIDENTE
+Santafé De Antioquia,Antioquia,L,Satelital Hughes,OCC-0114-001,OCCIDENTE
+Santo Domingo,Antioquia,KU,Satelital Iridium,OCC-0115-001,OCCIDENTE
+Segovia,Antioquia,KA,Satelital Hughes,OCC-0116-001,OCCIDENTE
+Segovia,Antioquia,KU,Satelital Iridium,OCC-0116-002,OCCIDENTE
+Sonson,Antioquia,KU,Satelital Hughes,OCC-0117-001,OCCIDENTE
+Sonson,Antioquia,KA,Satelital Inmarsat,OCC-0117-002,OCCIDENTE
+Sopetrán,Antioquia,KA,Satelital Starlink,OCC-0118-001,OCCIDENTE
+Tarazá,Antioquia,L,Satelital Hughes,OCC-0119-001,OCCIDENTE
+Tarso,Antioquia,KA,Satelital Inmarsat,OCC-0120-001,OCCIDENTE
+Tarso,Antioquia,KU,Satelital Hughes,OCC-0120-002,OCCIDENTE
+Titiribí,Antioquia,KA,Satelital Inmarsat,OCC-0121-001,OCCIDENTE
+Toledo,Antioquia,KA,Satelital Inmarsat,OCC-0122-001,OCCIDENTE
+Turbo,Antioquia,L,Satelital Hughes,OCC-0123-001,OCCIDENTE
+Támesis,Antioquia,L,Satelital Hughes,OCC-0124-001,OCCIDENTE
+Uramita,Antioquia,KU,Satelital Starlink,OCC-0125-001,OCCIDENTE
+Uramita,Antioquia,KU,Satelital Inmarsat,OCC-0125-002,OCCIDENTE
+Urrao,Antioquia,KA,Satelital Iridium,OCC-0126-001,OCCIDENTE
+Valdivia,Antioquia,C,Satelital Starlink,OCC-0127-001,OCCIDENTE
+Valparaíso,Antioquia,KU,Satelital Hughes,OCC-0128-001,OCCIDENTE
+Vegachí,Antioquia,C,Satelital Iridium,OCC-0129-001,OCCIDENTE
+Venecia,Antioquia,KU,Satelital Inmarsat,OCC-0130-001,OCCIDENTE
+Venecia,Antioquia,KA,Satelital Iridium,OCC-0130-002,OCCIDENTE
+Vigía Del Fuerte,Antioquia,L,Satelital Inmarsat,OCC-0131-001,OCCIDENTE
+Vigía Del Fuerte,Antioquia,C,Satelital Hughes,OCC-0131-002,OCCIDENTE
+Yalí,Antioquia,L,Satelital Hughes,OCC-0132-001,OCCIDENTE
+Yalí,Antioquia,C,Satelital Iridium,OCC-0132-002,OCCIDENTE
+Yarumal,Antioquia,KA,Satelital Inmarsat,OCC-0133-001,OCCIDENTE
+Yarumal,Antioquia,KU,Satelital Starlink,OCC-0133-002,OCCIDENTE
+Yolombó,Antioquia,L,Satelital Inmarsat,OCC-0134-001,OCCIDENTE
+Yolombó,Antioquia,L,Satelital Iridium,OCC-0134-002,OCCIDENTE
+Yondó,Antioquia,KA,Satelital Starlink,OCC-0135-001,OCCIDENTE
+Yondó,Antioquia,KU,Satelital Inmarsat,OCC-0135-002,OCCIDENTE
+Zaragoza,Antioquia,L,Satelital Inmarsat,OCC-0136-001,OCCIDENTE
+Zaragoza,Antioquia,L,Satelital Hughes,OCC-0136-002,OCCIDENTE
+Arauca,Arauca,KU,Satelital Inmarsat,ORI-0137-001,ORIENTE
+Arauca,Arauca,C,Satelital Starlink,ORI-0137-002,ORIENTE
+Arauquita,Arauca,KA,Satelital Inmarsat,ORI-0138-001,ORIENTE
+Cravo Norte,Arauca,C,Satelital Inmarsat,ORI-0139-001,ORIENTE
+Fortul,Arauca,L,Satelital Hughes,ORI-0140-001,ORIENTE
+Puerto Rondón,Arauca,KU,Satelital Iridium,ORI-0141-001,ORIENTE
+Saravena,Arauca,C,Satelital Starlink,ORI-0142-001,ORIENTE
+Tame,Arauca,KA,Satelital Inmarsat,ORI-0143-001,ORIENTE
+Tame,Arauca,L,Satelital Iridium,ORI-0143-002,ORIENTE
+Providencia,Archipiélago De San Andrés,KU,Satelital Hughes,NOR-0144-001,NORTE
+San Andrés,Archipiélago De San Andrés,KU,Satelital Inmarsat,NOR-0145-001,NORTE
+San Andrés,Archipiélago De San Andrés,KU,Satelital Starlink,NOR-0145-002,NORTE
+Baranoa,Atlántico,KU,Satelital Inmarsat,NOR-0146-001,NORTE
+Baranoa,Atlántico,KU,Satelital Iridium,NOR-0146-002,NORTE
+Barranquilla,Atlántico,KA,Satelital Iridium,NOR-0147-001,NORTE
+Campo De La Cruz,Atlántico,C,Satelital Inmarsat,NOR-0148-001,NORTE
+Candelaria,Atlántico,KU,Satelital Inmarsat,NOR-0149-001,NORTE
+Candelaria,Atlántico,L,Satelital Iridium,NOR-0149-002,NORTE
+Galapa,Atlántico,KU,Satelital Iridium,NOR-0150-001,NORTE
+Juan De Acosta,Atlántico,C,Satelital Starlink,NOR-0151-001,NORTE
+Juan De Acosta,Atlántico,KA,Satelital Iridium,NOR-0151-002,NORTE
+Luruaco,Atlántico,KA,Satelital Iridium,NOR-0152-001,NORTE
+Luruaco,Atlántico,L,Satelital Iridium,NOR-0152-002,NORTE
+Malambo,Atlántico,KA,Satelital Inmarsat,NOR-0153-001,NORTE
+Malambo,Atlántico,KA,Satelital Hughes,NOR-0153-002,NORTE
+Manatí,Atlántico,KU,Satelital Hughes,NOR-0154-001,NORTE
+Manatí,Atlántico,L,Satelital Inmarsat,NOR-0154-002,NORTE
+Palmar De Varela,Atlántico,C,Satelital Inmarsat,NOR-0155-001,NORTE
+Piojó,Atlántico,C,Satelital Inmarsat,NOR-0156-001,NORTE
+Piojó,Atlántico,L,Satelital Starlink,NOR-0156-002,NORTE
+Polonuevo,Atlántico,C,Satelital Starlink,NOR-0157-001,NORTE
+Polonuevo,Atlántico,L,Satelital Starlink,NOR-0157-002,NORTE
+Ponedera,Atlántico,KA,Satelital Starlink,NOR-0158-001,NORTE
+Ponedera,Atlántico,KU,Satelital Hughes,NOR-0158-002,NORTE
+Puerto Colombia,Atlántico,KU,Satelital Hughes,NOR-0159-001,NORTE
+Repelón,Atlántico,KA,Satelital Inmarsat,NOR-0160-001,NORTE
+Repelón,Atlántico,KA,Satelital Starlink,NOR-0160-002,NORTE
+Sabanagrande,Atlántico,L,Satelital Inmarsat,NOR-0161-001,NORTE
+Sabanalarga,Atlántico,KA,Satelital Starlink,NOR-0162-001,NORTE
+Santa Lucía,Atlántico,KA,Satelital Starlink,NOR-0163-001,NORTE
+Santo Tomás,Atlántico,KA,Satelital Inmarsat,NOR-0164-001,NORTE
+Santo Tomás,Atlántico,L,Satelital Starlink,NOR-0164-002,NORTE
+Soledad,Atlántico,L,Satelital Iridium,NOR-0165-001,NORTE
+Suan,Atlántico,KU,Satelital Inmarsat,NOR-0166-001,NORTE
+Tubará,Atlántico,C,Satelital Inmarsat,NOR-0167-001,NORTE
+Usiacurí,Atlántico,KU,Satelital Iridium,NOR-0168-001,NORTE
+"Bogotá, D.C.","Bogotá, D.C.",L,Satelital Inmarsat,CEN-0169-001,CENTRO
+Sumapaz,"Bogotá, D.C.",KA,Satelital Hughes,CEN-0170-001,CENTRO
+Sumapaz,"Bogotá, D.C.",L,Satelital Iridium,CEN-0170-002,CENTRO
+Achí,Bolívar,L,Satelital Iridium,NOR-0171-001,NORTE
+Achí,Bolívar,KU,Satelital Starlink,NOR-0171-002,NORTE
+Altos Del Rosario,Bolívar,C,Satelital Hughes,NOR-0172-001,NORTE
+Altos Del Rosario,Bolívar,C,Satelital Starlink,NOR-0172-002,NORTE
+Arenal,Bolívar,KA,Satelital Starlink,NOR-0173-001,NORTE
+Arenal,Bolívar,L,Satelital Iridium,NOR-0173-002,NORTE
+Arjona,Bolívar,C,Satelital Iridium,NOR-0174-001,NORTE
+Arjona,Bolívar,KA,Satelital Inmarsat,NOR-0174-002,NORTE
+Arroyohondo,Bolívar,C,Satelital Hughes,NOR-0175-001,NORTE
+Barranco De Loba,Bolívar,KA,Satelital Hughes,NOR-0176-001,NORTE
+Barranco De Loba,Bolívar,KA,Satelital Iridium,NOR-0176-002,NORTE
+Calamar,Bolívar,KU,Satelital Starlink,NOR-0177-001,NORTE
+Cantagallo,Bolívar,C,Satelital Inmarsat,NOR-0178-001,NORTE
+Cartagena,Bolívar,C,Satelital Starlink,NOR-0179-001,NORTE
+Cicuco,Bolívar,KU,Satelital Hughes,NOR-0180-001,NORTE
+Clemencia,Bolívar,KU,Satelital Hughes,NOR-0181-001,NORTE
+Córdoba,Bolívar,KU,Satelital Iridium,NOR-0182-001,NORTE
+El Carmen De Bolívar,Bolívar,L,Satelital Starlink,NOR-0183-001,NORTE
+El Carmen De Bolívar,Bolívar,KA,Satelital Iridium,NOR-0183-002,NORTE
+El Guamo,Bolívar,KU,Satelital Hughes,NOR-0184-001,NORTE
+El Peñón,Bolívar,KU,Satelital Starlink,NOR-0185-001,NORTE
+El Peñón,Bolívar,L,Satelital Iridium,NOR-0185-002,NORTE
+Hatillo De Loba,Bolívar,KA,Satelital Starlink,NOR-0186-001,NORTE
+Magangué,Bolívar,C,Satelital Inmarsat,NOR-0187-001,NORTE
+Magangué,Bolívar,KU,Satelital Inmarsat,NOR-0187-002,NORTE
+Mahates,Bolívar,C,Satelital Starlink,NOR-0188-001,NORTE
+Mahates,Bolívar,KU,Satelital Starlink,NOR-0188-002,NORTE
+Margarita,Bolívar,L,Satelital Hughes,NOR-0189-001,NORTE
+María La Baja,Bolívar,L,Satelital Starlink,NOR-0190-001,NORTE
+María La Baja,Bolívar,KU,Satelital Inmarsat,NOR-0190-002,NORTE
+Mompós,Bolívar,KA,Satelital Iridium,NOR-0191-001,NORTE
+Montecristo,Bolívar,C,Satelital Inmarsat,NOR-0192-001,NORTE
+Morales,Bolívar,L,Satelital Hughes,NOR-0193-001,NORTE
+Morales,Bolívar,C,Satelital Iridium,NOR-0193-002,NORTE
+Norosí,Bolívar,KA,Satelital Iridium,NOR-0194-001,NORTE
+Norosí,Bolívar,L,Satelital Starlink,NOR-0194-002,NORTE
+Pinillos,Bolívar,KA,Satelital Iridium,NOR-0195-001,NORTE
+Regidor,Bolívar,KU,Satelital Starlink,NOR-0196-001,NORTE
+Regidor,Bolívar,KA,Satelital Inmarsat,NOR-0196-002,NORTE
+Río Viejo,Bolívar,KA,Satelital Inmarsat,NOR-0197-001,NORTE
+San Cristóbal,Bolívar,KA,Satelital Starlink,NOR-0198-001,NORTE
+San Estanislao,Bolívar,C,Satelital Hughes,NOR-0199-001,NORTE
+San Fernando,Bolívar,C,Satelital Iridium,NOR-0200-001,NORTE
+San Fernando,Bolívar,L,Satelital Hughes,NOR-0200-002,NORTE
+San Jacinto,Bolívar,KA,Satelital Hughes,NOR-0201-001,NORTE
+San Jacinto Del Cauca,Bolívar,L,Satelital Inmarsat,NOR-0202-001,NORTE
+San Juan Nepomuceno,Bolívar,C,Satelital Inmarsat,NOR-0203-001,NORTE
+San Juan Nepomuceno,Bolívar,KA,Satelital Starlink,NOR-0203-002,NORTE
+San Martín De Loba,Bolívar,KU,Satelital Inmarsat,NOR-0204-001,NORTE
+San Pablo,Bolívar,KU,Satelital Starlink,NOR-0205-001,NORTE
+San Pablo,Bolívar,KA,Satelital Inmarsat,NOR-0205-002,NORTE
+Santa Catalina,Bolívar,C,Satelital Hughes,NOR-0206-001,NORTE
+Santa Catalina,Bolívar,C,Satelital Inmarsat,NOR-0206-002,NORTE
+Santa Rosa,Bolívar,KU,Satelital Iridium,NOR-0207-001,NORTE
+Santa Rosa Del Sur,Bolívar,KA,Satelital Hughes,NOR-0208-001,NORTE
+Simití,Bolívar,KA,Satelital Hughes,NOR-0209-001,NORTE
+Simití,Bolívar,L,Satelital Inmarsat,NOR-0209-002,NORTE
+Soplaviento,Bolívar,KA,Satelital Iridium,NOR-0210-001,NORTE
+Talaigua Nuevo,Bolívar,KU,Satelital Inmarsat,NOR-0211-001,NORTE
+Talaigua Nuevo,Bolívar,KA,Satelital Hughes,NOR-0211-002,NORTE
+Tiquisio,Bolívar,KA,Satelital Hughes,NOR-0212-001,NORTE
+Tiquisio,Bolívar,L,Satelital Iridium,NOR-0212-002,NORTE
+Turbaco,Bolívar,KU,Satelital Hughes,NOR-0213-001,NORTE
+Turbaco,Bolívar,L,Satelital Starlink,NOR-0213-002,NORTE
+Turbaná,Bolívar,C,Satelital Starlink,NOR-0214-001,NORTE
+Villanueva,Bolívar,C,Satelital Iridium,NOR-0215-001,NORTE
+Villanueva,Bolívar,C,Satelital Starlink,NOR-0215-002,NORTE
+Zambrano,Bolívar,L,Satelital Hughes,NOR-0216-001,NORTE
+Almeida,Boyacá,KA,Satelital Inmarsat,ORI-0217-001,ORIENTE
+Aquitania,Boyacá,KA,Satelital Starlink,ORI-0218-001,ORIENTE
+Aquitania,Boyacá,L,Satelital Starlink,ORI-0218-002,ORIENTE
+Arcabuco,Boyacá,KA,Satelital Hughes,ORI-0219-001,ORIENTE
+Arcabuco,Boyacá,L,Satelital Iridium,ORI-0219-002,ORIENTE
+Belén,Boyacá,KU,Satelital Iridium,ORI-0220-001,ORIENTE
+Belén,Boyacá,KU,Satelital Iridium,ORI-0220-002,ORIENTE
+Berbeo,Boyacá,KA,Satelital Inmarsat,ORI-0221-001,ORIENTE
+Betéitiva,Boyacá,C,Satelital Hughes,ORI-0222-001,ORIENTE
+Boavita,Boyacá,KA,Satelital Iridium,ORI-0223-001,ORIENTE
+Boyacá,Boyacá,L,Satelital Inmarsat,ORI-0224-001,ORIENTE
+Boyacá,Boyacá,KA,Satelital Inmarsat,ORI-0224-002,ORIENTE
+Briceño,Boyacá,KA,Satelital Inmarsat,ORI-0225-001,ORIENTE
+Buenavista,Boyacá,KA,Satelital Starlink,ORI-0226-001,ORIENTE
+Busbanzá,Boyacá,KU,Satelital Hughes,ORI-0227-001,ORIENTE
+Busbanzá,Boyacá,KA,Satelital Iridium,ORI-0227-002,ORIENTE
+Caldas,Boyacá,L,Satelital Hughes,ORI-0228-001,ORIENTE
+Caldas,Boyacá,C,Satelital Starlink,ORI-0228-002,ORIENTE
+Campohermoso,Boyacá,KA,Satelital Starlink,ORI-0229-001,ORIENTE
+Cerinza,Boyacá,KA,Satelital Inmarsat,ORI-0230-001,ORIENTE
+Chinavita,Boyacá,L,Satelital Hughes,ORI-0231-001,ORIENTE
+Chiquinquirá,Boyacá,KA,Satelital Inmarsat,ORI-0232-001,ORIENTE
+Chiscas,Boyacá,KU,Satelital Starlink,ORI-0233-001,ORIENTE
+Chiscas,Boyacá,KU,Satelital Hughes,ORI-0233-002,ORIENTE
+Chita,Boyacá,KA,Satelital Inmarsat,ORI-0234-001,ORIENTE
+Chitaraque,Boyacá,L,Satelital Hughes,ORI-0235-001,ORIENTE
+Chitaraque,Boyacá,C,Satelital Inmarsat,ORI-0235-002,ORIENTE
+Chivatá,Boyacá,KU,Satelital Starlink,ORI-0236-001,ORIENTE
+Chivatá,Boyacá,KU,Satelital Hughes,ORI-0236-002,ORIENTE
+Chivor,Boyacá,C,Satelital Iridium,ORI-0237-001,ORIENTE
+Chivor,Boyacá,KU,Satelital Inmarsat,ORI-0237-002,ORIENTE
+Chíquiza,Boyacá,KA,Satelital Starlink,ORI-0238-001,ORIENTE
+Chíquiza,Boyacá,C,Satelital Hughes,ORI-0238-002,ORIENTE
+Ciénega,Boyacá,KU,Satelital Inmarsat,ORI-0239-001,ORIENTE
+Ciénega,Boyacá,KU,Satelital Hughes,ORI-0239-002,ORIENTE
+Coper,Boyacá,KA,Satelital Starlink,ORI-0240-001,ORIENTE
+Corrales,Boyacá,KU,Satelital Iridium,ORI-0241-001,ORIENTE
+Covarachía,Boyacá,L,Satelital Hughes,ORI-0242-001,ORIENTE
+Cubará,Boyacá,KU,Satelital Inmarsat,ORI-0243-001,ORIENTE
+Cubará,Boyacá,C,Satelital Starlink,ORI-0243-002,ORIENTE
+Cucaita,Boyacá,C,Satelital Hughes,ORI-0244-001,ORIENTE
+Cucaita,Boyacá,C,Satelital Iridium,ORI-0244-002,ORIENTE
+Cuítiva,Boyacá,C,Satelital Inmarsat,ORI-0245-001,ORIENTE
+Cuítiva,Boyacá,KU,Satelital Iridium,ORI-0245-002,ORIENTE
+Cómbita,Boyacá,L,Satelital Inmarsat,ORI-0246-001,ORIENTE
+Duitama,Boyacá,C,Satelital Iridium,ORI-0247-001,ORIENTE
+El Cocuy,Boyacá,L,Satelital Hughes,ORI-0248-001,ORIENTE
+El Cocuy,Boyacá,L,Satelital Inmarsat,ORI-0248-002,ORIENTE
+El Espino,Boyacá,C,Satelital Starlink,ORI-0249-001,ORIENTE
+El Espino,Boyacá,C,Satelital Hughes,ORI-0249-002,ORIENTE
+Firavitoba,Boyacá,L,Satelital Inmarsat,ORI-0250-001,ORIENTE
+Firavitoba,Boyacá,KA,Satelital Hughes,ORI-0250-002,ORIENTE
+Floresta,Boyacá,C,Satelital Starlink,ORI-0251-001,ORIENTE
+Floresta,Boyacá,KU,Satelital Hughes,ORI-0251-002,ORIENTE
+Gachantivá,Boyacá,C,Satelital Inmarsat,ORI-0252-001,ORIENTE
+Gachantivá,Boyacá,KA,Satelital Inmarsat,ORI-0252-002,ORIENTE
+Gameza,Boyacá,L,Satelital Starlink,ORI-0253-001,ORIENTE
+Garagoa,Boyacá,C,Satelital Starlink,ORI-0254-001,ORIENTE
+Garagoa,Boyacá,KA,Satelital Hughes,ORI-0254-002,ORIENTE
+Guacamayas,Boyacá,L,Satelital Inmarsat,ORI-0255-001,ORIENTE
+Guacamayas,Boyacá,L,Satelital Starlink,ORI-0255-002,ORIENTE
+Guateque,Boyacá,L,Satelital Hughes,ORI-0256-001,ORIENTE
+Guayatá,Boyacá,L,Satelital Inmarsat,ORI-0257-001,ORIENTE
+Guayatá,Boyacá,L,Satelital Inmarsat,ORI-0257-002,ORIENTE
+Güicán De La Sierra,Boyacá,C,Satelital Hughes,ORI-0258-001,ORIENTE
+Güicán De La Sierra,Boyacá,L,Satelital Starlink,ORI-0258-002,ORIENTE
+Iza,Boyacá,KA,Satelital Inmarsat,ORI-0259-001,ORIENTE
+Jenesano,Boyacá,KU,Satelital Inmarsat,ORI-0260-001,ORIENTE
+Jericó,Boyacá,KU,Satelital Inmarsat,ORI-0261-001,ORIENTE
+La Capilla,Boyacá,KU,Satelital Starlink,ORI-0262-001,ORIENTE
+La Capilla,Boyacá,KU,Satelital Iridium,ORI-0262-002,ORIENTE
+La Uvita,Boyacá,C,Satelital Inmarsat,ORI-0263-001,ORIENTE
+La Uvita,Boyacá,L,Satelital Iridium,ORI-0263-002,ORIENTE
+La Victoria,Boyacá,L,Satelital Inmarsat,ORI-0264-001,ORIENTE
+La Victoria,Boyacá,L,Satelital Starlink,ORI-0264-002,ORIENTE
+Labranzagrande,Boyacá,KA,Satelital Starlink,ORI-0265-001,ORIENTE
+Labranzagrande,Boyacá,L,Satelital Starlink,ORI-0265-002,ORIENTE
+Macanal,Boyacá,C,Satelital Iridium,ORI-0266-001,ORIENTE
+Macanal,Boyacá,C,Satelital Iridium,ORI-0266-002,ORIENTE
+Maripí,Boyacá,KU,Satelital Inmarsat,ORI-0267-001,ORIENTE
+Miraflores,Boyacá,KU,Satelital Inmarsat,ORI-0268-001,ORIENTE
+Mongua,Boyacá,KU,Satelital Inmarsat,ORI-0269-001,ORIENTE
+Mongua,Boyacá,KU,Satelital Starlink,ORI-0269-002,ORIENTE
+Monguí,Boyacá,KU,Satelital Hughes,ORI-0270-001,ORIENTE
+Moniquirá,Boyacá,L,Satelital Hughes,ORI-0271-001,ORIENTE
+Motavita,Boyacá,L,Satelital Iridium,ORI-0272-001,ORIENTE
+Motavita,Boyacá,KA,Satelital Iridium,ORI-0272-002,ORIENTE
+Muzo,Boyacá,L,Satelital Hughes,ORI-0273-001,ORIENTE
+Muzo,Boyacá,C,Satelital Iridium,ORI-0273-002,ORIENTE
+Nobsa,Boyacá,KA,Satelital Iridium,ORI-0274-001,ORIENTE
+Nuevo Colón,Boyacá,C,Satelital Iridium,ORI-0275-001,ORIENTE
+Oicatá,Boyacá,L,Satelital Iridium,ORI-0276-001,ORIENTE
+Otanche,Boyacá,KU,Satelital Starlink,ORI-0277-001,ORIENTE
+Otanche,Boyacá,L,Satelital Iridium,ORI-0277-002,ORIENTE
+Pachavita,Boyacá,KA,Satelital Starlink,ORI-0278-001,ORIENTE
+Paipa,Boyacá,C,Satelital Iridium,ORI-0279-001,ORIENTE
+Paipa,Boyacá,KU,Satelital Inmarsat,ORI-0279-002,ORIENTE
+Pajarito,Boyacá,L,Satelital Hughes,ORI-0280-001,ORIENTE
+Pajarito,Boyacá,C,Satelital Starlink,ORI-0280-002,ORIENTE
+Panqueba,Boyacá,C,Satelital Hughes,ORI-0281-001,ORIENTE
+Panqueba,Boyacá,L,Satelital Inmarsat,ORI-0281-002,ORIENTE
+Pauna,Boyacá,L,Satelital Iridium,ORI-0282-001,ORIENTE
+Paya,Boyacá,C,Satelital Inmarsat,ORI-0283-001,ORIENTE
+Paz De Río,Boyacá,KA,Satelital Iridium,ORI-0284-001,ORIENTE
+Pesca,Boyacá,L,Satelital Iridium,ORI-0285-001,ORIENTE
+Pisba,Boyacá,C,Satelital Inmarsat,ORI-0286-001,ORIENTE
+Pisba,Boyacá,KU,Satelital Iridium,ORI-0286-002,ORIENTE
+Puerto Boyacá,Boyacá,KU,Satelital Iridium,ORI-0287-001,ORIENTE
+Puerto Boyacá,Boyacá,KU,Satelital Hughes,ORI-0287-002,ORIENTE
+Páez,Boyacá,L,Satelital Iridium,ORI-0288-001,ORIENTE
+Quípama,Boyacá,C,Satelital Inmarsat,ORI-0289-001,ORIENTE
+Quípama,Boyacá,C,Satelital Hughes,ORI-0289-002,ORIENTE
+Ramiriquí,Boyacá,KA,Satelital Hughes,ORI-0290-001,ORIENTE
+Ramiriquí,Boyacá,C,Satelital Hughes,ORI-0290-002,ORIENTE
+Rondón,Boyacá,C,Satelital Hughes,ORI-0291-001,ORIENTE
+Rondón,Boyacá,KA,Satelital Starlink,ORI-0291-002,ORIENTE
+Ráquira,Boyacá,KU,Satelital Inmarsat,ORI-0292-001,ORIENTE
+Ráquira,Boyacá,C,Satelital Hughes,ORI-0292-002,ORIENTE
+Saboyá,Boyacá,L,Satelital Starlink,ORI-0293-001,ORIENTE
+Samacá,Boyacá,C,Satelital Hughes,ORI-0294-001,ORIENTE
+Samacá,Boyacá,KA,Satelital Inmarsat,ORI-0294-002,ORIENTE
+San Eduardo,Boyacá,KU,Satelital Inmarsat,ORI-0295-001,ORIENTE
+San José De Pare,Boyacá,C,Satelital Iridium,ORI-0296-001,ORIENTE
+San José De Pare,Boyacá,C,Satelital Hughes,ORI-0296-002,ORIENTE
+San Luis De Gaceno,Boyacá,L,Satelital Iridium,ORI-0297-001,ORIENTE
+San Mateo,Boyacá,C,Satelital Hughes,ORI-0298-001,ORIENTE
+San Mateo,Boyacá,L,Satelital Hughes,ORI-0298-002,ORIENTE
+San Miguel De Sema,Boyacá,KA,Satelital Starlink,ORI-0299-001,ORIENTE
+San Pablo De Borbur,Boyacá,KA,Satelital Hughes,ORI-0300-001,ORIENTE
+San Pablo De Borbur,Boyacá,C,Satelital Iridium,ORI-0300-002,ORIENTE
+Santa María,Boyacá,L,Satelital Hughes,ORI-0301-001,ORIENTE
+Santa María,Boyacá,C,Satelital Iridium,ORI-0301-002,ORIENTE
+Santa Rosa De Viterbo,Boyacá,C,Satelital Inmarsat,ORI-0302-001,ORIENTE
+Santa Rosa De Viterbo,Boyacá,KA,Satelital Iridium,ORI-0302-002,ORIENTE
+Santa Sofía,Boyacá,C,Satelital Starlink,ORI-0303-001,ORIENTE
+Santa Sofía,Boyacá,KU,Satelital Inmarsat,ORI-0303-002,ORIENTE
+Santana,Boyacá,KA,Satelital Starlink,ORI-0304-001,ORIENTE
+Sativanorte,Boyacá,KA,Satelital Inmarsat,ORI-0305-001,ORIENTE
+Sativasur,Boyacá,C,Satelital Iridium,ORI-0306-001,ORIENTE
+Siachoque,Boyacá,KA,Satelital Iridium,ORI-0307-001,ORIENTE
+Siachoque,Boyacá,KA,Satelital Inmarsat,ORI-0307-002,ORIENTE
+Soatá,Boyacá,L,Satelital Inmarsat,ORI-0308-001,ORIENTE
+Soatá,Boyacá,C,Satelital Iridium,ORI-0308-002,ORIENTE
+Socha,Boyacá,KA,Satelital Inmarsat,ORI-0309-001,ORIENTE
+Socotá,Boyacá,L,Satelital Hughes,ORI-0310-001,ORIENTE
+Sogamoso,Boyacá,KA,Satelital Iridium,ORI-0311-001,ORIENTE
+Somondoco,Boyacá,L,Satelital Hughes,ORI-0312-001,ORIENTE
+Somondoco,Boyacá,C,Satelital Inmarsat,ORI-0312-002,ORIENTE
+Sora,Boyacá,C,Satelital Hughes,ORI-0313-001,ORIENTE
+Soracá,Boyacá,C,Satelital Inmarsat,ORI-0314-001,ORIENTE
+Sotaquirá,Boyacá,C,Satelital Hughes,ORI-0315-001,ORIENTE
+Susacón,Boyacá,C,Satelital Iridium,ORI-0316-001,ORIENTE
+Susacón,Boyacá,KU,Satelital Iridium,ORI-0316-002,ORIENTE
+Sutamarchán,Boyacá,KU,Satelital Iridium,ORI-0317-001,ORIENTE
+Sutatenza,Boyacá,KU,Satelital Inmarsat,ORI-0318-001,ORIENTE
+Sutatenza,Boyacá,KU,Satelital Starlink,ORI-0318-002,ORIENTE
+Sáchica,Boyacá,C,Satelital Inmarsat,ORI-0319-001,ORIENTE
+Tasco,Boyacá,KU,Satelital Inmarsat,ORI-0320-001,ORIENTE
+Tenza,Boyacá,KU,Satelital Inmarsat,ORI-0321-001,ORIENTE
+Tenza,Boyacá,L,Satelital Hughes,ORI-0321-002,ORIENTE
+Tibaná,Boyacá,C,Satelital Starlink,ORI-0322-001,ORIENTE
+Tibaná,Boyacá,L,Satelital Inmarsat,ORI-0322-002,ORIENTE
+Tibasosa,Boyacá,KA,Satelital Hughes,ORI-0323-001,ORIENTE
+Tibasosa,Boyacá,KA,Satelital Iridium,ORI-0323-002,ORIENTE
+Tinjacá,Boyacá,KA,Satelital Iridium,ORI-0324-001,ORIENTE
+Tipacoque,Boyacá,C,Satelital Hughes,ORI-0325-001,ORIENTE
+Toca,Boyacá,KU,Satelital Hughes,ORI-0326-001,ORIENTE
+Togüí,Boyacá,C,Satelital Iridium,ORI-0327-001,ORIENTE
+Tota,Boyacá,C,Satelital Iridium,ORI-0328-001,ORIENTE
+Tunja,Boyacá,C,Satelital Inmarsat,ORI-0329-001,ORIENTE
+Tunja,Boyacá,KU,Satelital Inmarsat,ORI-0329-002,ORIENTE
+Tununguá,Boyacá,L,Satelital Iridium,ORI-0330-001,ORIENTE
+Tununguá,Boyacá,KA,Satelital Inmarsat,ORI-0330-002,ORIENTE
+Turmequé,Boyacá,KU,Satelital Inmarsat,ORI-0331-001,ORIENTE
+Tuta,Boyacá,KA,Satelital Starlink,ORI-0332-001,ORIENTE
+Tuta,Boyacá,KU,Satelital Inmarsat,ORI-0332-002,ORIENTE
+Tutazá,Boyacá,C,Satelital Inmarsat,ORI-0333-001,ORIENTE
+Tópaga,Boyacá,L,Satelital Starlink,ORI-0334-001,ORIENTE
+Tópaga,Boyacá,C,Satelital Hughes,ORI-0334-002,ORIENTE
+Umbita,Boyacá,C,Satelital Inmarsat,ORI-0335-001,ORIENTE
+Ventaquemada,Boyacá,KU,Satelital Inmarsat,ORI-0336-001,ORIENTE
+Villa De Leyva,Boyacá,KA,Satelital Starlink,ORI-0337-001,ORIENTE
+Viracachá,Boyacá,C,Satelital Iridium,ORI-0338-001,ORIENTE
+Zetaquira,Boyacá,C,Satelital Iridium,ORI-0339-001,ORIENTE
+Aguadas,Caldas,KA,Satelital Inmarsat,OCC-0340-001,OCCIDENTE
+Anserma,Caldas,KU,Satelital Hughes,OCC-0341-001,OCCIDENTE
+Anserma,Caldas,L,Satelital Starlink,OCC-0341-002,OCCIDENTE
+Aranzazu,Caldas,KA,Satelital Hughes,OCC-0342-001,OCCIDENTE
+Aranzazu,Caldas,KU,Satelital Iridium,OCC-0342-002,OCCIDENTE
+Belalcázar,Caldas,KA,Satelital Hughes,OCC-0343-001,OCCIDENTE
+Chinchiná,Caldas,C,Satelital Starlink,OCC-0344-001,OCCIDENTE
+Filadelfia,Caldas,C,Satelital Hughes,OCC-0345-001,OCCIDENTE
+Filadelfia,Caldas,L,Satelital Iridium,OCC-0345-002,OCCIDENTE
+La Dorada,Caldas,KU,Satelital Starlink,OCC-0346-001,OCCIDENTE
+La Dorada,Caldas,C,Satelital Hughes,OCC-0346-002,OCCIDENTE
+La Merced,Caldas,KU,Satelital Iridium,OCC-0347-001,OCCIDENTE
+Manizales,Caldas,C,Satelital Iridium,OCC-0348-001,OCCIDENTE
+Manizales,Caldas,C,Satelital Starlink,OCC-0348-002,OCCIDENTE
+Manzanares,Caldas,KA,Satelital Starlink,OCC-0349-001,OCCIDENTE
+Manzanares,Caldas,KA,Satelital Inmarsat,OCC-0349-002,OCCIDENTE
+Marmato,Caldas,C,Satelital Iridium,OCC-0350-001,OCCIDENTE
+Marmato,Caldas,C,Satelital Iridium,OCC-0350-002,OCCIDENTE
+Marquetalia,Caldas,KA,Satelital Inmarsat,OCC-0351-001,OCCIDENTE
+Marquetalia,Caldas,L,Satelital Iridium,OCC-0351-002,OCCIDENTE
+Marulanda,Caldas,L,Satelital Iridium,OCC-0352-001,OCCIDENTE
+Marulanda,Caldas,L,Satelital Iridium,OCC-0352-002,OCCIDENTE
+Neira,Caldas,KA,Satelital Hughes,OCC-0353-001,OCCIDENTE
+Neira,Caldas,L,Satelital Starlink,OCC-0353-002,OCCIDENTE
+Norcasia,Caldas,KU,Satelital Inmarsat,OCC-0354-001,OCCIDENTE
+Palestina,Caldas,KA,Satelital Hughes,OCC-0355-001,OCCIDENTE
+Pensilvania,Caldas,KU,Satelital Inmarsat,OCC-0356-001,OCCIDENTE
+Pácora,Caldas,C,Satelital Iridium,OCC-0357-001,OCCIDENTE
+Riosucio,Caldas,L,Satelital Hughes,OCC-0358-001,OCCIDENTE
+Risaralda,Caldas,KA,Satelital Inmarsat,OCC-0359-001,OCCIDENTE
+Salamina,Caldas,C,Satelital Inmarsat,OCC-0360-001,OCCIDENTE
+Samaná,Caldas,L,Satelital Starlink,OCC-0361-001,OCCIDENTE
+San José,Caldas,C,Satelital Inmarsat,OCC-0362-001,OCCIDENTE
+Supía,Caldas,KA,Satelital Iridium,OCC-0363-001,OCCIDENTE
+Supía,Caldas,L,Satelital Iridium,OCC-0363-002,OCCIDENTE
+Victoria,Caldas,KU,Satelital Starlink,OCC-0364-001,OCCIDENTE
+Villamaría,Caldas,KU,Satelital Inmarsat,OCC-0365-001,OCCIDENTE
+Viterbo,Caldas,KA,Satelital Iridium,OCC-0366-001,OCCIDENTE
+Viterbo,Caldas,KA,Satelital Inmarsat,OCC-0366-002,OCCIDENTE
+Albania,Caquetá,C,Satelital Hughes,SUR-0367-001,SUR
+Belén De Los Andaquies,Caquetá,C,Satelital Hughes,SUR-0368-001,SUR
+Cartagena Del Chairá,Caquetá,KU,Satelital Hughes,SUR-0369-001,SUR
+Cartagena Del Chairá,Caquetá,KA,Satelital Hughes,SUR-0369-002,SUR
+Curillo,Caquetá,L,Satelital Starlink,SUR-0370-001,SUR
+Curillo,Caquetá,KU,Satelital Hughes,SUR-0370-002,SUR
+El Doncello,Caquetá,L,Satelital Iridium,SUR-0371-001,SUR
+El Paujil,Caquetá,C,Satelital Inmarsat,SUR-0372-001,SUR
+El Paujil,Caquetá,KU,Satelital Starlink,SUR-0372-002,SUR
+Florencia,Caquetá,L,Satelital Starlink,SUR-0373-001,SUR
+La Montañita,Caquetá,KU,Satelital Hughes,SUR-0374-001,SUR
+Milán,Caquetá,KA,Satelital Starlink,SUR-0375-001,SUR
+Milán,Caquetá,KA,Satelital Starlink,SUR-0375-002,SUR
+Morelia,Caquetá,L,Satelital Starlink,SUR-0376-001,SUR
+Puerto Rico,Caquetá,C,Satelital Iridium,SUR-0377-001,SUR
+Puerto Rico,Caquetá,KA,Satelital Hughes,SUR-0377-002,SUR
+San José Del Fragua,Caquetá,KU,Satelital Starlink,SUR-0378-001,SUR
+San Vicente Del Caguán,Caquetá,L,Satelital Inmarsat,SUR-0379-001,SUR
+Solano,Caquetá,KA,Satelital Iridium,SUR-0380-001,SUR
+Solita,Caquetá,L,Satelital Inmarsat,SUR-0381-001,SUR
+Valparaíso,Caquetá,C,Satelital Hughes,SUR-0382-001,SUR
+Valparaíso,Caquetá,KA,Satelital Hughes,SUR-0382-002,SUR
+Aguazul,Casanare,L,Satelital Starlink,ORI-0383-001,ORIENTE
+Chameza,Casanare,KA,Satelital Starlink,ORI-0384-001,ORIENTE
+Chameza,Casanare,C,Satelital Hughes,ORI-0384-002,ORIENTE
+Hato Corozal,Casanare,KU,Satelital Hughes,ORI-0385-001,ORIENTE
+Hato Corozal,Casanare,L,Satelital Starlink,ORI-0385-002,ORIENTE
+La Salina,Casanare,C,Satelital Inmarsat,ORI-0386-001,ORIENTE
+Maní,Casanare,C,Satelital Inmarsat,ORI-0387-001,ORIENTE
+Maní,Casanare,C,Satelital Hughes,ORI-0387-002,ORIENTE
+Monterrey,Casanare,KA,Satelital Hughes,ORI-0388-001,ORIENTE
+Monterrey,Casanare,KA,Satelital Starlink,ORI-0388-002,ORIENTE
+Nunchía,Casanare,L,Satelital Iridium,ORI-0389-001,ORIENTE
+Nunchía,Casanare,KA,Satelital Hughes,ORI-0389-002,ORIENTE
+Orocué,Casanare,C,Satelital Starlink,ORI-0390-001,ORIENTE
+Orocué,Casanare,KA,Satelital Inmarsat,ORI-0390-002,ORIENTE
+Paz De Ariporo,Casanare,C,Satelital Hughes,ORI-0391-001,ORIENTE
+Pore,Casanare,KA,Satelital Starlink,ORI-0392-001,ORIENTE
+Pore,Casanare,KA,Satelital Starlink,ORI-0392-002,ORIENTE
+Recetor,Casanare,C,Satelital Starlink,ORI-0393-001,ORIENTE
+Recetor,Casanare,C,Satelital Starlink,ORI-0393-002,ORIENTE
+Sabanalarga,Casanare,L,Satelital Starlink,ORI-0394-001,ORIENTE
+Sabanalarga,Casanare,KU,Satelital Inmarsat,ORI-0394-002,ORIENTE
+San Luis De Palenque,Casanare,KA,Satelital Iridium,ORI-0395-001,ORIENTE
+Sácama,Casanare,L,Satelital Hughes,ORI-0396-001,ORIENTE
+Sácama,Casanare,KA,Satelital Hughes,ORI-0396-002,ORIENTE
+Tauramena,Casanare,L,Satelital Iridium,ORI-0397-001,ORIENTE
+Trinidad,Casanare,KU,Satelital Inmarsat,ORI-0398-001,ORIENTE
+Támara,Casanare,C,Satelital Starlink,ORI-0399-001,ORIENTE
+Támara,Casanare,C,Satelital Iridium,ORI-0399-002,ORIENTE
+Villanueva,Casanare,KA,Satelital Hughes,ORI-0400-001,ORIENTE
+Yopal,Casanare,L,Satelital Hughes,ORI-0401-001,ORIENTE
+Yopal,Casanare,C,Satelital Inmarsat,ORI-0401-002,ORIENTE
+Almaguer,Cauca,KU,Satelital Inmarsat,SUR-0402-001,SUR
+Almaguer,Cauca,L,Satelital Inmarsat,SUR-0402-002,SUR
+Argelia,Cauca,KU,Satelital Inmarsat,SUR-0403-001,SUR
+Argelia,Cauca,C,Satelital Iridium,SUR-0403-002,SUR
+Balboa,Cauca,L,Satelital Hughes,SUR-0404-001,SUR
+Bolívar,Cauca,C,Satelital Hughes,SUR-0405-001,SUR
+Buenos Aires,Cauca,KA,Satelital Inmarsat,SUR-0406-001,SUR
+Cajibío,Cauca,C,Satelital Inmarsat,SUR-0407-001,SUR
+Cajibío,Cauca,L,Satelital Hughes,SUR-0407-002,SUR
+Caldono,Cauca,L,Satelital Inmarsat,SUR-0408-001,SUR
+Caloto,Cauca,L,Satelital Starlink,SUR-0409-001,SUR
+Caloto,Cauca,KU,Satelital Inmarsat,SUR-0409-002,SUR
+Corinto,Cauca,KA,Satelital Inmarsat,SUR-0410-001,SUR
+Corinto,Cauca,KU,Satelital Inmarsat,SUR-0410-002,SUR
+El Tambo,Cauca,L,Satelital Hughes,SUR-0411-001,SUR
+Florencia,Cauca,KU,Satelital Iridium,SUR-0412-001,SUR
+Guachené,Cauca,KU,Satelital Hughes,SUR-0413-001,SUR
+Guachené,Cauca,KA,Satelital Hughes,SUR-0413-002,SUR
+Guapi,Cauca,KA,Satelital Hughes,SUR-0414-001,SUR
+Guapi,Cauca,L,Satelital Starlink,SUR-0414-002,SUR
+Inzá,Cauca,L,Satelital Starlink,SUR-0415-001,SUR
+Inzá,Cauca,L,Satelital Iridium,SUR-0415-002,SUR
+Jambaló,Cauca,KA,Satelital Iridium,SUR-0416-001,SUR
+Jambaló,Cauca,KA,Satelital Starlink,SUR-0416-002,SUR
+La Sierra,Cauca,KU,Satelital Iridium,SUR-0417-001,SUR
+La Sierra,Cauca,L,Satelital Inmarsat,SUR-0417-002,SUR
+La Vega,Cauca,KU,Satelital Inmarsat,SUR-0418-001,SUR
+López,Cauca,L,Satelital Hughes,SUR-0419-001,SUR
+López,Cauca,L,Satelital Starlink,SUR-0419-002,SUR
+Mercaderes,Cauca,KA,Satelital Iridium,SUR-0420-001,SUR
+Miranda,Cauca,L,Satelital Iridium,SUR-0421-001,SUR
+Morales,Cauca,C,Satelital Inmarsat,SUR-0422-001,SUR
+Morales,Cauca,L,Satelital Iridium,SUR-0422-002,SUR
+Padilla,Cauca,L,Satelital Hughes,SUR-0423-001,SUR
+Padilla,Cauca,L,Satelital Hughes,SUR-0423-002,SUR
+Paez,Cauca,KA,Satelital Inmarsat,SUR-0424-001,SUR
+Paez,Cauca,KA,Satelital Iridium,SUR-0424-002,SUR
+Patía,Cauca,KA,Satelital Hughes,SUR-0425-001,SUR
+Patía,Cauca,C,Satelital Hughes,SUR-0425-002,SUR
+Piamonte,Cauca,KU,Satelital Starlink,SUR-0426-001,SUR
+Piamonte,Cauca,L,Satelital Hughes,SUR-0426-002,SUR
+Piendamó,Cauca,L,Satelital Iridium,SUR-0427-001,SUR
+Popayán,Cauca,C,Satelital Iridium,SUR-0428-001,SUR
+Puerto Tejada,Cauca,KU,Satelital Inmarsat,SUR-0429-001,SUR
+Puerto Tejada,Cauca,KU,Satelital Iridium,SUR-0429-002,SUR
+Puracé,Cauca,KU,Satelital Iridium,SUR-0430-001,SUR
+Rosas,Cauca,KA,Satelital Hughes,SUR-0431-001,SUR
+Rosas,Cauca,KA,Satelital Starlink,SUR-0431-002,SUR
+San Sebastián,Cauca,KU,Satelital Hughes,SUR-0432-001,SUR
+San Sebastián,Cauca,KU,Satelital Inmarsat,SUR-0432-002,SUR
+Santa Rosa,Cauca,KU,Satelital Inmarsat,SUR-0433-001,SUR
+Santa Rosa,Cauca,C,Satelital Starlink,SUR-0433-002,SUR
+Santander De Quilichao,Cauca,C,Satelital Hughes,SUR-0434-001,SUR
+Silvia,Cauca,KU,Satelital Starlink,SUR-0435-001,SUR
+Silvia,Cauca,C,Satelital Iridium,SUR-0435-002,SUR
+Sotara,Cauca,C,Satelital Iridium,SUR-0436-001,SUR
+Sucre,Cauca,C,Satelital Inmarsat,SUR-0437-001,SUR
+Sucre,Cauca,KA,Satelital Starlink,SUR-0437-002,SUR
+Suárez,Cauca,KU,Satelital Hughes,SUR-0438-001,SUR
+Suárez,Cauca,KA,Satelital Hughes,SUR-0438-002,SUR
+Timbiquí,Cauca,KU,Satelital Iridium,SUR-0439-001,SUR
+Timbío,Cauca,L,Satelital Iridium,SUR-0440-001,SUR
+Timbío,Cauca,C,Satelital Iridium,SUR-0440-002,SUR
+Toribio,Cauca,KU,Satelital Iridium,SUR-0441-001,SUR
+Totoró,Cauca,C,Satelital Starlink,SUR-0442-001,SUR
+Villa Rica,Cauca,C,Satelital Inmarsat,SUR-0443-001,SUR
+Villa Rica,Cauca,C,Satelital Inmarsat,SUR-0443-002,SUR
+Aguachica,Cesar,KU,Satelital Iridium,NOR-0444-001,NORTE
+Agustín Codazzi,Cesar,L,Satelital Hughes,NOR-0445-001,NORTE
+Agustín Codazzi,Cesar,L,Satelital Inmarsat,NOR-0445-002,NORTE
+Astrea,Cesar,KA,Satelital Hughes,NOR-0446-001,NORTE
+Astrea,Cesar,C,Satelital Iridium,NOR-0446-002,NORTE
+Becerril,Cesar,KA,Satelital Starlink,NOR-0447-001,NORTE
+Becerril,Cesar,KA,Satelital Inmarsat,NOR-0447-002,NORTE
+Bosconia,Cesar,KU,Satelital Inmarsat,NOR-0448-001,NORTE
+Bosconia,Cesar,C,Satelital Starlink,NOR-0448-002,NORTE
+Chimichagua,Cesar,KA,Satelital Hughes,NOR-0449-001,NORTE
+Chimichagua,Cesar,L,Satelital Starlink,NOR-0449-002,NORTE
+Chiriguaná,Cesar,KA,Satelital Starlink,NOR-0450-001,NORTE
+Curumaní,Cesar,C,Satelital Starlink,NOR-0451-001,NORTE
+El Copey,Cesar,KA,Satelital Inmarsat,NOR-0452-001,NORTE
+El Paso,Cesar,L,Satelital Iridium,NOR-0453-001,NORTE
+El Paso,Cesar,L,Satelital Hughes,NOR-0453-002,NORTE
+Gamarra,Cesar,C,Satelital Inmarsat,NOR-0454-001,NORTE
+González,Cesar,L,Satelital Iridium,NOR-0455-001,NORTE
+González,Cesar,C,Satelital Starlink,NOR-0455-002,NORTE
+La Gloria,Cesar,C,Satelital Starlink,NOR-0456-001,NORTE
+La Jagua De Ibirico,Cesar,C,Satelital Inmarsat,NOR-0457-001,NORTE
+La Jagua De Ibirico,Cesar,C,Satelital Hughes,NOR-0457-002,NORTE
+La Paz,Cesar,L,Satelital Iridium,NOR-0458-001,NORTE
+Manaure,Cesar,C,Satelital Hughes,NOR-0459-001,NORTE
+Pailitas,Cesar,C,Satelital Hughes,NOR-0460-001,NORTE
+Pelaya,Cesar,C,Satelital Hughes,NOR-0461-001,NORTE
+Pelaya,Cesar,C,Satelital Iridium,NOR-0461-002,NORTE
+Pueblo Bello,Cesar,KU,Satelital Inmarsat,NOR-0462-001,NORTE
+Pueblo Bello,Cesar,KA,Satelital Hughes,NOR-0462-002,NORTE
+Río De Oro,Cesar,C,Satelital Starlink,NOR-0463-001,NORTE
+San Alberto,Cesar,C,Satelital Hughes,NOR-0464-001,NORTE
+San Diego,Cesar,KA,Satelital Starlink,NOR-0465-001,NORTE
+San Diego,Cesar,KA,Satelital Iridium,NOR-0465-002,NORTE
+San Martín,Cesar,KA,Satelital Hughes,NOR-0466-001,NORTE
+Tamalameque,Cesar,KU,Satelital Iridium,NOR-0467-001,NORTE
+Valledupar,Cesar,C,Satelital Inmarsat,NOR-0468-001,NORTE
+Valledupar,Cesar,KU,Satelital Hughes,NOR-0468-002,NORTE
+Acandí,Chocó,C,Satelital Hughes,OCC-0469-001,OCCIDENTE
+Alto Baudo,Chocó,L,Satelital Iridium,OCC-0470-001,OCCIDENTE
+Alto Baudo,Chocó,C,Satelital Inmarsat,OCC-0470-002,OCCIDENTE
+Atrato,Chocó,L,Satelital Starlink,OCC-0471-001,OCCIDENTE
+Bagadó,Chocó,L,Satelital Inmarsat,OCC-0472-001,OCCIDENTE
+Bahía Solano,Chocó,KA,Satelital Inmarsat,OCC-0473-001,OCCIDENTE
+Bajo Baudó,Chocó,L,Satelital Hughes,OCC-0474-001,OCCIDENTE
+Bajo Baudó,Chocó,KU,Satelital Iridium,OCC-0474-002,OCCIDENTE
+Belén De Bajirá,Chocó,KU,Satelital Inmarsat,OCC-0475-001,OCCIDENTE
+Bojayá,Chocó,KU,Satelital Inmarsat,OCC-0476-001,OCCIDENTE
+Carmen Del Darien,Chocó,L,Satelital Iridium,OCC-0477-001,OCCIDENTE
+Carmen Del Darien,Chocó,L,Satelital Inmarsat,OCC-0477-002,OCCIDENTE
+Condoto,Chocó,KU,Satelital Iridium,OCC-0478-001,OCCIDENTE
+Condoto,Chocó,KA,Satelital Inmarsat,OCC-0478-002,OCCIDENTE
+Cértegui,Chocó,KA,Satelital Hughes,OCC-0479-001,OCCIDENTE
+Cértegui,Chocó,KU,Satelital Iridium,OCC-0479-002,OCCIDENTE
+El Cantón Del San Pablo,Chocó,KA,Satelital Starlink,OCC-0480-001,OCCIDENTE
+El Cantón Del San Pablo,Chocó,KA,Satelital Hughes,OCC-0480-002,OCCIDENTE
+El Carmen De Atrato,Chocó,L,Satelital Inmarsat,OCC-0481-001,OCCIDENTE
+El Carmen De Atrato,Chocó,KA,Satelital Iridium,OCC-0481-002,OCCIDENTE
+El Litoral Del San Juan,Chocó,C,Satelital Starlink,OCC-0482-001,OCCIDENTE
+El Litoral Del San Juan,Chocó,C,Satelital Iridium,OCC-0482-002,OCCIDENTE
+Istmina,Chocó,C,Satelital Hughes,OCC-0483-001,OCCIDENTE
+Istmina,Chocó,L,Satelital Starlink,OCC-0483-002,OCCIDENTE
+Juradó,Chocó,L,Satelital Hughes,OCC-0484-001,OCCIDENTE
+Juradó,Chocó,KU,Satelital Hughes,OCC-0484-002,OCCIDENTE
+Lloró,Chocó,C,Satelital Iridium,OCC-0485-001,OCCIDENTE
+Malpelo,Chocó,KA,Satelital Starlink,OCC-0486-001,OCCIDENTE
+Medio Atrato,Chocó,KA,Satelital Inmarsat,OCC-0487-001,OCCIDENTE
+Medio Baudó,Chocó,L,Satelital Hughes,OCC-0488-001,OCCIDENTE
+Medio Baudó,Chocó,KA,Satelital Iridium,OCC-0488-002,OCCIDENTE
+Medio San Juan,Chocó,L,Satelital Inmarsat,OCC-0489-001,OCCIDENTE
+Nuquí,Chocó,C,Satelital Hughes,OCC-0490-001,OCCIDENTE
+Nóvita,Chocó,C,Satelital Hughes,OCC-0491-001,OCCIDENTE
+Nóvita,Chocó,L,Satelital Inmarsat,OCC-0491-002,OCCIDENTE
+Quibdó,Chocó,C,Satelital Inmarsat,OCC-0492-001,OCCIDENTE
+Quibdó,Chocó,L,Satelital Starlink,OCC-0492-002,OCCIDENTE
+Riosucio,Chocó,L,Satelital Iridium,OCC-0493-001,OCCIDENTE
+Río Iro,Chocó,L,Satelital Iridium,OCC-0494-001,OCCIDENTE
+Río Iro,Chocó,L,Satelital Iridium,OCC-0494-002,OCCIDENTE
+Río Quito,Chocó,KU,Satelital Hughes,OCC-0495-001,OCCIDENTE
+San José Del Palmar,Chocó,KA,Satelital Hughes,OCC-0496-001,OCCIDENTE
+Sipí,Chocó,C,Satelital Hughes,OCC-0497-001,OCCIDENTE
+Sipí,Chocó,L,Satelital Starlink,OCC-0497-002,OCCIDENTE
+Tadó,Chocó,KA,Satelital Iridium,OCC-0498-001,OCCIDENTE
+Tadó,Chocó,KA,Satelital Iridium,OCC-0498-002,OCCIDENTE
+Unguía,Chocó,C,Satelital Starlink,OCC-0499-001,OCCIDENTE
+Unguía,Chocó,KA,Satelital Iridium,OCC-0499-002,OCCIDENTE
+Unión Panamericana,Chocó,KA,Satelital Inmarsat,OCC-0500-001,OCCIDENTE
+Agua De Dios,Cundinamarca,C,Satelital Iridium,CEN-0501-001,CENTRO
+Agua De Dios,Cundinamarca,C,Satelital Starlink,CEN-0501-002,CENTRO
+Albán,Cundinamarca,L,Satelital Starlink,CEN-0502-001,CENTRO
+Albán,Cundinamarca,L,Satelital Iridium,CEN-0502-002,CENTRO
+Anapoima,Cundinamarca,KA,Satelital Iridium,CEN-0503-001,CENTRO
+Anapoima,Cundinamarca,KA,Satelital Inmarsat,CEN-0503-002,CENTRO
+Anolaima,Cundinamarca,KA,Satelital Iridium,CEN-0504-001,CENTRO
+Apulo,Cundinamarca,L,Satelital Hughes,CEN-0505-001,CENTRO
+Apulo,Cundinamarca,KA,Satelital Hughes,CEN-0505-002,CENTRO
+Arbeláez,Cundinamarca,L,Satelital Iridium,CEN-0506-001,CENTRO
+Beltrán,Cundinamarca,L,Satelital Inmarsat,CEN-0507-001,CENTRO
+Beltrán,Cundinamarca,C,Satelital Iridium,CEN-0507-002,CENTRO
+Bituima,Cundinamarca,KA,Satelital Inmarsat,CEN-0508-001,CENTRO
+Bituima,Cundinamarca,KA,Satelital Inmarsat,CEN-0508-002,CENTRO
+Bojacá,Cundinamarca,C,Satelital Hughes,CEN-0509-001,CENTRO
+Bojacá,Cundinamarca,KU,Satelital Iridium,CEN-0509-002,CENTRO
+Cabrera,Cundinamarca,KA,Satelital Starlink,CEN-0510-001,CENTRO
+Cabrera,Cundinamarca,KA,Satelital Hughes,CEN-0510-002,CENTRO
+Cachipay,Cundinamarca,C,Satelital Inmarsat,CEN-0511-001,CENTRO
+Cachipay,Cundinamarca,KU,Satelital Hughes,CEN-0511-002,CENTRO
+Cajicá,Cundinamarca,C,Satelital Hughes,CEN-0512-001,CENTRO
+Caparrapí,Cundinamarca,C,Satelital Starlink,CEN-0513-001,CENTRO
+Caqueza,Cundinamarca,KA,Satelital Starlink,CEN-0514-001,CENTRO
+Carmen De Carupa,Cundinamarca,KU,Satelital Starlink,CEN-0515-001,CENTRO
+Carmen De Carupa,Cundinamarca,KA,Satelital Inmarsat,CEN-0515-002,CENTRO
+Chaguaní,Cundinamarca,L,Satelital Iridium,CEN-0516-001,CENTRO
+Chipaque,Cundinamarca,KU,Satelital Starlink,CEN-0517-001,CENTRO
+Choachí,Cundinamarca,C,Satelital Starlink,CEN-0518-001,CENTRO
+Choachí,Cundinamarca,C,Satelital Starlink,CEN-0518-002,CENTRO
+Chocontá,Cundinamarca,L,Satelital Iridium,CEN-0519-001,CENTRO
+Chocontá,Cundinamarca,L,Satelital Inmarsat,CEN-0519-002,CENTRO
+Chía,Cundinamarca,KU,Satelital Iridium,CEN-0520-001,CENTRO
+Chía,Cundinamarca,KA,Satelital Starlink,CEN-0520-002,CENTRO
+Cogua,Cundinamarca,KU,Satelital Inmarsat,CEN-0521-001,CENTRO
+Cota,Cundinamarca,KU,Satelital Iridium,CEN-0522-001,CENTRO
+Cucunubá,Cundinamarca,KA,Satelital Inmarsat,CEN-0523-001,CENTRO
+El Colegio,Cundinamarca,C,Satelital Starlink,CEN-0524-001,CENTRO
+El Colegio,Cundinamarca,C,Satelital Starlink,CEN-0524-002,CENTRO
+El Peñón,Cundinamarca,KU,Satelital Iridium,CEN-0525-001,CENTRO
+El Rosal,Cundinamarca,C,Satelital Starlink,CEN-0526-001,CENTRO
+Facatativá,Cundinamarca,KA,Satelital Starlink,CEN-0527-001,CENTRO
+Fomeque,Cundinamarca,L,Satelital Starlink,CEN-0528-001,CENTRO
+Fomeque,Cundinamarca,L,Satelital Starlink,CEN-0528-002,CENTRO
+Fosca,Cundinamarca,L,Satelital Hughes,CEN-0529-001,CENTRO
+Funza,Cundinamarca,KA,Satelital Inmarsat,CEN-0530-001,CENTRO
+Fusagasugá,Cundinamarca,KU,Satelital Starlink,CEN-0531-001,CENTRO
+Fusagasugá,Cundinamarca,C,Satelital Hughes,CEN-0531-002,CENTRO
+Fúquene,Cundinamarca,C,Satelital Iridium,CEN-0532-001,CENTRO
+Gachala,Cundinamarca,KA,Satelital Hughes,CEN-0533-001,CENTRO
+Gachancipá,Cundinamarca,KA,Satelital Iridium,CEN-0534-001,CENTRO
+Gachancipá,Cundinamarca,L,Satelital Inmarsat,CEN-0534-002,CENTRO
+Gachetá,Cundinamarca,KA,Satelital Inmarsat,CEN-0535-001,CENTRO
+Gachetá,Cundinamarca,KA,Satelital Iridium,CEN-0535-002,CENTRO
+Gama,Cundinamarca,C,Satelital Inmarsat,CEN-0536-001,CENTRO
+Girardot,Cundinamarca,KU,Satelital Inmarsat,CEN-0537-001,CENTRO
+Granada,Cundinamarca,KA,Satelital Starlink,CEN-0538-001,CENTRO
+Granada,Cundinamarca,KU,Satelital Inmarsat,CEN-0538-002,CENTRO
+Guachetá,Cundinamarca,L,Satelital Hughes,CEN-0539-001,CENTRO
+Guachetá,Cundinamarca,C,Satelital Hughes,CEN-0539-002,CENTRO
+Guaduas,Cundinamarca,KA,Satelital Hughes,CEN-0540-001,CENTRO
+Guaduas,Cundinamarca,KA,Satelital Iridium,CEN-0540-002,CENTRO
+Guasca,Cundinamarca,KU,Satelital Inmarsat,CEN-0541-001,CENTRO
+Guasca,Cundinamarca,L,Satelital Inmarsat,CEN-0541-002,CENTRO
+Guataquí,Cundinamarca,KU,Satelital Inmarsat,CEN-0542-001,CENTRO
+Guataquí,Cundinamarca,C,Satelital Starlink,CEN-0542-002,CENTRO
+Guatavita,Cundinamarca,KU,Satelital Starlink,CEN-0543-001,CENTRO
+Guatavita,Cundinamarca,C,Satelital Starlink,CEN-0543-002,CENTRO
+Guayabal De Siquima,Cundinamarca,KU,Satelital Inmarsat,CEN-0544-001,CENTRO
+Guayabetal,Cundinamarca,KU,Satelital Iridium,CEN-0545-001,CENTRO
+Guayabetal,Cundinamarca,L,Satelital Hughes,CEN-0545-002,CENTRO
+Gutiérrez,Cundinamarca,KU,Satelital Starlink,CEN-0546-001,CENTRO
+Jerusalén,Cundinamarca,L,Satelital Inmarsat,CEN-0547-001,CENTRO
+Junín,Cundinamarca,KU,Satelital Iridium,CEN-0548-001,CENTRO
+La Calera,Cundinamarca,KU,Satelital Starlink,CEN-0549-001,CENTRO
+La Mesa,Cundinamarca,C,Satelital Starlink,CEN-0550-001,CENTRO
+La Palma,Cundinamarca,C,Satelital Starlink,CEN-0551-001,CENTRO
+La Palma,Cundinamarca,L,Satelital Hughes,CEN-0551-002,CENTRO
+La Peña,Cundinamarca,KU,Satelital Starlink,CEN-0552-001,CENTRO
+La Vega,Cundinamarca,KU,Satelital Inmarsat,CEN-0553-001,CENTRO
+Lenguazaque,Cundinamarca,KU,Satelital Inmarsat,CEN-0554-001,CENTRO
+Lenguazaque,Cundinamarca,KA,Satelital Inmarsat,CEN-0554-002,CENTRO
+Macheta,Cundinamarca,KA,Satelital Iridium,CEN-0555-001,CENTRO
+Macheta,Cundinamarca,KA,Satelital Inmarsat,CEN-0555-002,CENTRO
+Madrid,Cundinamarca,L,Satelital Starlink,CEN-0556-001,CENTRO
+Manta,Cundinamarca,KA,Satelital Inmarsat,CEN-0557-001,CENTRO
+Manta,Cundinamarca,L,Satelital Hughes,CEN-0557-002,CENTRO
+Medina,Cundinamarca,KU,Satelital Iridium,CEN-0558-001,CENTRO
+Mosquera,Cundinamarca,L,Satelital Hughes,CEN-0559-001,CENTRO
+Mosquera,Cundinamarca,KU,Satelital Starlink,CEN-0559-002,CENTRO
+Nariño,Cundinamarca,C,Satelital Iridium,CEN-0560-001,CENTRO
+Nemocón,Cundinamarca,C,Satelital Inmarsat,CEN-0561-001,CENTRO
+Nilo,Cundinamarca,KA,Satelital Iridium,CEN-0562-001,CENTRO
+Nimaima,Cundinamarca,KU,Satelital Hughes,CEN-0563-001,CENTRO
+Nimaima,Cundinamarca,KA,Satelital Hughes,CEN-0563-002,CENTRO
+Nocaima,Cundinamarca,KU,Satelital Starlink,CEN-0564-001,CENTRO
+Nocaima,Cundinamarca,KU,Satelital Iridium,CEN-0564-002,CENTRO
+Pacho,Cundinamarca,KA,Satelital Iridium,CEN-0565-001,CENTRO
+Pacho,Cundinamarca,KU,Satelital Iridium,CEN-0565-002,CENTRO
+Paime,Cundinamarca,L,Satelital Inmarsat,CEN-0566-001,CENTRO
+Paime,Cundinamarca,C,Satelital Inmarsat,CEN-0566-002,CENTRO
+Pandi,Cundinamarca,L,Satelital Starlink,CEN-0567-001,CENTRO
+Pandi,Cundinamarca,C,Satelital Hughes,CEN-0567-002,CENTRO
+Paratebueno,Cundinamarca,L,Satelital Inmarsat,CEN-0568-001,CENTRO
+Pasca,Cundinamarca,KU,Satelital Inmarsat,CEN-0569-001,CENTRO
+Puerto Salgar,Cundinamarca,L,Satelital Hughes,CEN-0570-001,CENTRO
+Pulí,Cundinamarca,KA,Satelital Hughes,CEN-0571-001,CENTRO
+Quebradanegra,Cundinamarca,L,Satelital Hughes,CEN-0572-001,CENTRO
+Quetame,Cundinamarca,C,Satelital Iridium,CEN-0573-001,CENTRO
+Quipile,Cundinamarca,KA,Satelital Hughes,CEN-0574-001,CENTRO
+Quipile,Cundinamarca,C,Satelital Inmarsat,CEN-0574-002,CENTRO
+Ricaurte,Cundinamarca,KU,Satelital Iridium,CEN-0575-001,CENTRO
+Ricaurte,Cundinamarca,KA,Satelital Inmarsat,CEN-0575-002,CENTRO
+San Antonio Del Tequendama,Cundinamarca,KU,Satelital Inmarsat,CEN-0576-001,CENTRO
+San Antonio Del Tequendama,Cundinamarca,KU,Satelital Inmarsat,CEN-0576-002,CENTRO
+San Bernardo,Cundinamarca,KA,Satelital Hughes,CEN-0577-001,CENTRO
+San Bernardo,Cundinamarca,L,Satelital Inmarsat,CEN-0577-002,CENTRO
+San Cayetano,Cundinamarca,L,Satelital Hughes,CEN-0578-001,CENTRO
+San Cayetano,Cundinamarca,L,Satelital Inmarsat,CEN-0578-002,CENTRO
+San Francisco,Cundinamarca,KA,Satelital Inmarsat,CEN-0579-001,CENTRO
+San Francisco,Cundinamarca,L,Satelital Iridium,CEN-0579-002,CENTRO
+San Juan De Río Seco,Cundinamarca,C,Satelital Inmarsat,CEN-0580-001,CENTRO
+San Juan De Río Seco,Cundinamarca,KA,Satelital Iridium,CEN-0580-002,CENTRO
+Sasaima,Cundinamarca,KU,Satelital Iridium,CEN-0581-001,CENTRO
+Sasaima,Cundinamarca,KA,Satelital Inmarsat,CEN-0581-002,CENTRO
+Sesquilé,Cundinamarca,KA,Satelital Iridium,CEN-0582-001,CENTRO
+Sibaté,Cundinamarca,KU,Satelital Starlink,CEN-0583-001,CENTRO
+Silvania,Cundinamarca,L,Satelital Starlink,CEN-0584-001,CENTRO
+Simijaca,Cundinamarca,KA,Satelital Hughes,CEN-0585-001,CENTRO
+Simijaca,Cundinamarca,C,Satelital Iridium,CEN-0585-002,CENTRO
+Soacha,Cundinamarca,KU,Satelital Starlink,CEN-0586-001,CENTRO
+Sopó,Cundinamarca,KU,Satelital Iridium,CEN-0587-001,CENTRO
+Sopó,Cundinamarca,KU,Satelital Inmarsat,CEN-0587-002,CENTRO
+Subachoque,Cundinamarca,KU,Satelital Iridium,CEN-0588-001,CENTRO
+Subachoque,Cundinamarca,C,Satelital Starlink,CEN-0588-002,CENTRO
+Suesca,Cundinamarca,L,Satelital Starlink,CEN-0589-001,CENTRO
+Suesca,Cundinamarca,KU,Satelital Iridium,CEN-0589-002,CENTRO
+Supatá,Cundinamarca,L,Satelital Starlink,CEN-0590-001,CENTRO
+Susa,Cundinamarca,KU,Satelital Inmarsat,CEN-0591-001,CENTRO
+Sutatausa,Cundinamarca,KU,Satelital Inmarsat,CEN-0592-001,CENTRO
+Sutatausa,Cundinamarca,KA,Satelital Hughes,CEN-0592-002,CENTRO
+Tabio,Cundinamarca,C,Satelital Starlink,CEN-0593-001,CENTRO
+Tausa,Cundinamarca,L,Satelital Iridium,CEN-0594-001,CENTRO
+Tausa,Cundinamarca,KU,Satelital Inmarsat,CEN-0594-002,CENTRO
+Tena,Cundinamarca,C,Satelital Starlink,CEN-0595-001,CENTRO
+Tenjo,Cundinamarca,L,Satelital Inmarsat,CEN-0596-001,CENTRO
+Tenjo,Cundinamarca,KU,Satelital Starlink,CEN-0596-002,CENTRO
+Tibacuy,Cundinamarca,KA,Satelital Starlink,CEN-0597-001,CENTRO
+Tibacuy,Cundinamarca,KA,Satelital Starlink,CEN-0597-002,CENTRO
+Tibirita,Cundinamarca,KA,Satelital Iridium,CEN-0598-001,CENTRO
+Tocaima,Cundinamarca,C,Satelital Hughes,CEN-0599-001,CENTRO
+Tocancipá,Cundinamarca,L,Satelital Hughes,CEN-0600-001,CENTRO
+Topaipí,Cundinamarca,L,Satelital Inmarsat,CEN-0601-001,CENTRO
+Topaipí,Cundinamarca,KA,Satelital Hughes,CEN-0601-002,CENTRO
+Ubalá,Cundinamarca,KU,Satelital Hughes,CEN-0602-001,CENTRO
+Ubaque,Cundinamarca,KA,Satelital Iridium,CEN-0603-001,CENTRO
+Ubaque,Cundinamarca,L,Satelital Inmarsat,CEN-0603-002,CENTRO
+Une,Cundinamarca,L,Satelital Inmarsat,CEN-0604-001,CENTRO
+Venecia,Cundinamarca,KA,Satelital Inmarsat,CEN-0605-001,CENTRO
+Vergara,Cundinamarca,C,Satelital Inmarsat,CEN-0606-001,CENTRO
+Vianí,Cundinamarca,L,Satelital Inmarsat,CEN-0607-001,CENTRO
+Villa De San Diego De Ubate,Cundinamarca,KU,Satelital Starlink,CEN-0608-001,CENTRO
+Villagómez,Cundinamarca,KA,Satelital Inmarsat,CEN-0609-001,CENTRO
+Villapinzón,Cundinamarca,KU,Satelital Starlink,CEN-0610-001,CENTRO
+Villapinzón,Cundinamarca,KA,Satelital Starlink,CEN-0610-002,CENTRO
+Villeta,Cundinamarca,C,Satelital Iridium,CEN-0611-001,CENTRO
+Villeta,Cundinamarca,L,Satelital Iridium,CEN-0611-002,CENTRO
+Viotá,Cundinamarca,KA,Satelital Iridium,CEN-0612-001,CENTRO
+Viotá,Cundinamarca,KU,Satelital Inmarsat,CEN-0612-002,CENTRO
+Yacopí,Cundinamarca,KA,Satelital Starlink,CEN-0613-001,CENTRO
+Zipacón,Cundinamarca,KA,Satelital Hughes,CEN-0614-001,CENTRO
+Zipacón,Cundinamarca,C,Satelital Inmarsat,CEN-0614-002,CENTRO
+Zipaquirá,Cundinamarca,KA,Satelital Starlink,CEN-0615-001,CENTRO
+Zipaquirá,Cundinamarca,KU,Satelital Hughes,CEN-0615-002,CENTRO
+Útica,Cundinamarca,C,Satelital Hughes,CEN-0616-001,CENTRO
+Ayapel,Córdoba,C,Satelital Starlink,NOR-0617-001,NORTE
+Buenavista,Córdoba,C,Satelital Iridium,NOR-0618-001,NORTE
+Buenavista,Córdoba,L,Satelital Hughes,NOR-0618-002,NORTE
+Canalete,Córdoba,KA,Satelital Inmarsat,NOR-0619-001,NORTE
+Canalete,Córdoba,KU,Satelital Iridium,NOR-0619-002,NORTE
+Cereté,Córdoba,KA,Satelital Inmarsat,NOR-0620-001,NORTE
+Chimá,Córdoba,C,Satelital Inmarsat,NOR-0621-001,NORTE
+Chinú,Córdoba,L,Satelital Iridium,NOR-0622-001,NORTE
+Chinú,Córdoba,C,Satelital Iridium,NOR-0622-002,NORTE
+Ciénaga De Oro,Córdoba,KU,Satelital Inmarsat,NOR-0623-001,NORTE
+Ciénaga De Oro,Córdoba,L,Satelital Hughes,NOR-0623-002,NORTE
+Cotorra,Córdoba,C,Satelital Starlink,NOR-0624-001,NORTE
+La Apartada,Córdoba,KU,Satelital Starlink,NOR-0625-001,NORTE
+Lorica,Córdoba,L,Satelital Hughes,NOR-0626-001,NORTE
+Lorica,Córdoba,L,Satelital Inmarsat,NOR-0626-002,NORTE
+Los Córdobas,Córdoba,KU,Satelital Starlink,NOR-0627-001,NORTE
+Los Córdobas,Córdoba,KU,Satelital Starlink,NOR-0627-002,NORTE
+Momil,Córdoba,KU,Satelital Starlink,NOR-0628-001,NORTE
+Momil,Córdoba,KA,Satelital Hughes,NOR-0628-002,NORTE
+Montelíbano,Córdoba,KU,Satelital Hughes,NOR-0629-001,NORTE
+Montelíbano,Córdoba,C,Satelital Starlink,NOR-0629-002,NORTE
+Montería,Córdoba,L,Satelital Inmarsat,NOR-0630-001,NORTE
+Moñitos,Córdoba,KA,Satelital Hughes,NOR-0631-001,NORTE
+Moñitos,Córdoba,L,Satelital Starlink,NOR-0631-002,NORTE
+Planeta Rica,Córdoba,L,Satelital Starlink,NOR-0632-001,NORTE
+Planeta Rica,Córdoba,KA,Satelital Starlink,NOR-0632-002,NORTE
+Pueblo Nuevo,Córdoba,KA,Satelital Hughes,NOR-0633-001,NORTE
+Pueblo Nuevo,Córdoba,KU,Satelital Iridium,NOR-0633-002,NORTE
+Puerto Escondido,Córdoba,L,Satelital Hughes,NOR-0634-001,NORTE
+Puerto Libertador,Córdoba,KA,Satelital Hughes,NOR-0635-001,NORTE
+Purísima,Córdoba,L,Satelital Inmarsat,NOR-0636-001,NORTE
+Purísima,Córdoba,L,Satelital Inmarsat,NOR-0636-002,NORTE
+Sahagún,Córdoba,KU,Satelital Starlink,NOR-0637-001,NORTE
+San Andrés Sotavento,Córdoba,KA,Satelital Iridium,NOR-0638-001,NORTE
+San Andrés Sotavento,Córdoba,KA,Satelital Hughes,NOR-0638-002,NORTE
+San Antero,Córdoba,C,Satelital Iridium,NOR-0639-001,NORTE
+San Bernardo Del Viento,Córdoba,KA,Satelital Iridium,NOR-0640-001,NORTE
+San Bernardo Del Viento,Córdoba,KU,Satelital Iridium,NOR-0640-002,NORTE
+San Carlos,Córdoba,C,Satelital Starlink,NOR-0641-001,NORTE
+San Pelayo,Córdoba,KU,Satelital Hughes,NOR-0642-001,NORTE
+San Pelayo,Córdoba,C,Satelital Iridium,NOR-0642-002,NORTE
+Tierralta,Córdoba,C,Satelital Inmarsat,NOR-0643-001,NORTE
+Tierralta,Córdoba,KU,Satelital Iridium,NOR-0643-002,NORTE
+Tuchín,Córdoba,L,Satelital Starlink,NOR-0644-001,NORTE
+Tuchín,Córdoba,KU,Satelital Iridium,NOR-0644-002,NORTE
+Valencia,Córdoba,L,Satelital Inmarsat,NOR-0645-001,NORTE
+Valencia,Córdoba,KU,Satelital Inmarsat,NOR-0645-002,NORTE
+Barranco Minas,Guainía,KA,Satelital Inmarsat,ORI-0646-001,ORIENTE
+Cacahual,Guainía,KA,Satelital Inmarsat,ORI-0647-001,ORIENTE
+Cacahual,Guainía,L,Satelital Inmarsat,ORI-0647-002,ORIENTE
+Inírida,Guainía,KU,Satelital Inmarsat,ORI-0648-001,ORIENTE
+Inírida,Guainía,C,Satelital Iridium,ORI-0648-002,ORIENTE
+La Guadalupe,Guainía,L,Satelital Starlink,ORI-0649-001,ORIENTE
+Mapiripana,Guainía,KA,Satelital Iridium,ORI-0650-001,ORIENTE
+Mapiripana,Guainía,C,Satelital Hughes,ORI-0650-002,ORIENTE
+Morichal,Guainía,KA,Satelital Inmarsat,ORI-0651-001,ORIENTE
+Morichal,Guainía,C,Satelital Inmarsat,ORI-0651-002,ORIENTE
+Pana Pana,Guainía,KA,Satelital Hughes,ORI-0652-001,ORIENTE
+Puerto Colombia,Guainía,C,Satelital Iridium,ORI-0653-001,ORIENTE
+San Felipe,Guainía,KA,Satelital Inmarsat,ORI-0654-001,ORIENTE
+San Felipe,Guainía,L,Satelital Inmarsat,ORI-0654-002,ORIENTE
+Calamar,Guaviare,L,Satelital Hughes,ORI-0655-001,ORIENTE
+Calamar,Guaviare,C,Satelital Inmarsat,ORI-0655-002,ORIENTE
+El Retorno,Guaviare,KA,Satelital Iridium,ORI-0656-001,ORIENTE
+Miraflores,Guaviare,KU,Satelital Hughes,ORI-0657-001,ORIENTE
+Miraflores,Guaviare,C,Satelital Hughes,ORI-0657-002,ORIENTE
+San José Del Guaviare,Guaviare,L,Satelital Iridium,ORI-0658-001,ORIENTE
+San José Del Guaviare,Guaviare,L,Satelital Iridium,ORI-0658-002,ORIENTE
+Acevedo,Huila,L,Satelital Hughes,SUR-0659-001,SUR
+Agrado,Huila,C,Satelital Starlink,SUR-0660-001,SUR
+Agrado,Huila,KU,Satelital Starlink,SUR-0660-002,SUR
+Aipe,Huila,C,Satelital Iridium,SUR-0661-001,SUR
+Algeciras,Huila,C,Satelital Iridium,SUR-0662-001,SUR
+Altamira,Huila,KU,Satelital Starlink,SUR-0663-001,SUR
+Baraya,Huila,C,Satelital Hughes,SUR-0664-001,SUR
+Campoalegre,Huila,KA,Satelital Inmarsat,SUR-0665-001,SUR
+Campoalegre,Huila,C,Satelital Starlink,SUR-0665-002,SUR
+Colombia,Huila,C,Satelital Iridium,SUR-0666-001,SUR
+Elías,Huila,C,Satelital Inmarsat,SUR-0667-001,SUR
+Elías,Huila,L,Satelital Hughes,SUR-0667-002,SUR
+Garzón,Huila,C,Satelital Inmarsat,SUR-0668-001,SUR
+Gigante,Huila,KU,Satelital Hughes,SUR-0669-001,SUR
+Gigante,Huila,C,Satelital Starlink,SUR-0669-002,SUR
+Guadalupe,Huila,C,Satelital Starlink,SUR-0670-001,SUR
+Guadalupe,Huila,L,Satelital Iridium,SUR-0670-002,SUR
+Hobo,Huila,KA,Satelital Inmarsat,SUR-0671-001,SUR
+Hobo,Huila,KA,Satelital Inmarsat,SUR-0671-002,SUR
+Iquira,Huila,C,Satelital Inmarsat,SUR-0672-001,SUR
+Isnos,Huila,KU,Satelital Starlink,SUR-0673-001,SUR
+La Argentina,Huila,C,Satelital Inmarsat,SUR-0674-001,SUR
+La Argentina,Huila,KA,Satelital Hughes,SUR-0674-002,SUR
+La Plata,Huila,KU,Satelital Hughes,SUR-0675-001,SUR
+La Plata,Huila,KA,Satelital Starlink,SUR-0675-002,SUR
+Neiva,Huila,L,Satelital Inmarsat,SUR-0676-001,SUR
+Nátaga,Huila,C,Satelital Inmarsat,SUR-0677-001,SUR
+Oporapa,Huila,KU,Satelital Starlink,SUR-0678-001,SUR
+Paicol,Huila,L,Satelital Hughes,SUR-0679-001,SUR
+Palermo,Huila,L,Satelital Hughes,SUR-0680-001,SUR
+Palermo,Huila,KU,Satelital Iridium,SUR-0680-002,SUR
+Palestina,Huila,KA,Satelital Iridium,SUR-0681-001,SUR
+Palestina,Huila,L,Satelital Inmarsat,SUR-0681-002,SUR
+Pital,Huila,L,Satelital Hughes,SUR-0682-001,SUR
+Pital,Huila,C,Satelital Inmarsat,SUR-0682-002,SUR
+Pitalito,Huila,KA,Satelital Hughes,SUR-0683-001,SUR
+Rivera,Huila,KU,Satelital Iridium,SUR-0684-001,SUR
+Rivera,Huila,KA,Satelital Starlink,SUR-0684-002,SUR
+Saladoblanco,Huila,C,Satelital Inmarsat,SUR-0685-001,SUR
+Saladoblanco,Huila,L,Satelital Inmarsat,SUR-0685-002,SUR
+San Agustín,Huila,KU,Satelital Starlink,SUR-0686-001,SUR
+San Agustín,Huila,KU,Satelital Iridium,SUR-0686-002,SUR
+Santa María,Huila,L,Satelital Hughes,SUR-0687-001,SUR
+Santa María,Huila,C,Satelital Inmarsat,SUR-0687-002,SUR
+Suaza,Huila,KA,Satelital Inmarsat,SUR-0688-001,SUR
+Suaza,Huila,KU,Satelital Hughes,SUR-0688-002,SUR
+Tarqui,Huila,L,Satelital Inmarsat,SUR-0689-001,SUR
+Tarqui,Huila,KA,Satelital Starlink,SUR-0689-002,SUR
+Tello,Huila,L,Satelital Hughes,SUR-0690-001,SUR
+Teruel,Huila,C,Satelital Starlink,SUR-0691-001,SUR
+Teruel,Huila,C,Satelital Hughes,SUR-0691-002,SUR
+Tesalia,Huila,KA,Satelital Hughes,SUR-0692-001,SUR
+Timaná,Huila,KA,Satelital Inmarsat,SUR-0693-001,SUR
+Villavieja,Huila,KA,Satelital Iridium,SUR-0694-001,SUR
+Villavieja,Huila,KA,Satelital Iridium,SUR-0694-002,SUR
+Yaguará,Huila,L,Satelital Hughes,SUR-0695-001,SUR
+Yaguará,Huila,C,Satelital Inmarsat,SUR-0695-002,SUR
+Albania,La Guajira,KA,Satelital Iridium,NOR-0696-001,NORTE
+Albania,La Guajira,C,Satelital Iridium,NOR-0696-002,NORTE
+Barrancas,La Guajira,KA,Satelital Inmarsat,NOR-0697-001,NORTE
+Dibulla,La Guajira,KU,Satelital Iridium,NOR-0698-001,NORTE
+Distracción,La Guajira,C,Satelital Inmarsat,NOR-0699-001,NORTE
+Distracción,La Guajira,C,Satelital Starlink,NOR-0699-002,NORTE
+El Molino,La Guajira,KA,Satelital Hughes,NOR-0700-001,NORTE
+El Molino,La Guajira,KU,Satelital Starlink,NOR-0700-002,NORTE
+Fonseca,La Guajira,KA,Satelital Inmarsat,NOR-0701-001,NORTE
+Hatonuevo,La Guajira,C,Satelital Hughes,NOR-0702-001,NORTE
+Hatonuevo,La Guajira,KU,Satelital Starlink,NOR-0702-002,NORTE
+La Jagua Del Pilar,La Guajira,KA,Satelital Hughes,NOR-0703-001,NORTE
+Maicao,La Guajira,L,Satelital Starlink,NOR-0704-001,NORTE
+Manaure,La Guajira,L,Satelital Inmarsat,NOR-0705-001,NORTE
+Manaure,La Guajira,C,Satelital Starlink,NOR-0705-002,NORTE
+Riohacha,La Guajira,KU,Satelital Iridium,NOR-0706-001,NORTE
+Riohacha,La Guajira,L,Satelital Inmarsat,NOR-0706-002,NORTE
+San Juan Del Cesar,La Guajira,C,Satelital Hughes,NOR-0707-001,NORTE
+San Juan Del Cesar,La Guajira,C,Satelital Hughes,NOR-0707-002,NORTE
+Uribia,La Guajira,L,Satelital Inmarsat,NOR-0708-001,NORTE
+Urumita,La Guajira,L,Satelital Iridium,NOR-0709-001,NORTE
+Villanueva,La Guajira,KU,Satelital Starlink,NOR-0710-001,NORTE
+Villanueva,La Guajira,KU,Satelital Starlink,NOR-0710-002,NORTE
+Algarrobo,Magdalena,C,Satelital Starlink,NOR-0711-001,NORTE
+Algarrobo,Magdalena,C,Satelital Iridium,NOR-0711-002,NORTE
+Aracataca,Magdalena,C,Satelital Inmarsat,NOR-0712-001,NORTE
+Aracataca,Magdalena,L,Satelital Starlink,NOR-0712-002,NORTE
+Ariguaní,Magdalena,C,Satelital Inmarsat,NOR-0713-001,NORTE
+Ariguaní,Magdalena,KU,Satelital Inmarsat,NOR-0713-002,NORTE
+Cerro San Antonio,Magdalena,L,Satelital Iridium,NOR-0714-001,NORTE
+Cerro San Antonio,Magdalena,C,Satelital Inmarsat,NOR-0714-002,NORTE
+Chibolo,Magdalena,KU,Satelital Iridium,NOR-0715-001,NORTE
+Ciénaga,Magdalena,KA,Satelital Starlink,NOR-0716-001,NORTE
+Concordia,Magdalena,C,Satelital Starlink,NOR-0717-001,NORTE
+El Banco,Magdalena,KA,Satelital Starlink,NOR-0718-001,NORTE
+El Piñon,Magdalena,KA,Satelital Inmarsat,NOR-0719-001,NORTE
+El Piñon,Magdalena,C,Satelital Starlink,NOR-0719-002,NORTE
+El Retén,Magdalena,KU,Satelital Starlink,NOR-0720-001,NORTE
+El Retén,Magdalena,L,Satelital Inmarsat,NOR-0720-002,NORTE
+Fundación,Magdalena,KU,Satelital Starlink,NOR-0721-001,NORTE
+Guamal,Magdalena,C,Satelital Starlink,NOR-0722-001,NORTE
+Nueva Granada,Magdalena,KA,Satelital Iridium,NOR-0723-001,NORTE
+Pedraza,Magdalena,KA,Satelital Iridium,NOR-0724-001,NORTE
+Pijiño Del Carmen,Magdalena,KU,Satelital Hughes,NOR-0725-001,NORTE
+Pijiño Del Carmen,Magdalena,L,Satelital Starlink,NOR-0725-002,NORTE
+Pivijay,Magdalena,C,Satelital Hughes,NOR-0726-001,NORTE
+Plato,Magdalena,L,Satelital Inmarsat,NOR-0727-001,NORTE
+Plato,Magdalena,KU,Satelital Inmarsat,NOR-0727-002,NORTE
+Puebloviejo,Magdalena,KU,Satelital Inmarsat,NOR-0728-001,NORTE
+Remolino,Magdalena,C,Satelital Hughes,NOR-0729-001,NORTE
+Sabanas De San Angel,Magdalena,L,Satelital Hughes,NOR-0730-001,NORTE
+Sabanas De San Angel,Magdalena,KA,Satelital Iridium,NOR-0730-002,NORTE
+Salamina,Magdalena,KU,Satelital Iridium,NOR-0731-001,NORTE
+Salamina,Magdalena,C,Satelital Starlink,NOR-0731-002,NORTE
+San Sebastián De Buenavista,Magdalena,KU,Satelital Hughes,NOR-0732-001,NORTE
+San Zenón,Magdalena,C,Satelital Starlink,NOR-0733-001,NORTE
+Santa Ana,Magdalena,C,Satelital Starlink,NOR-0734-001,NORTE
+Santa Ana,Magdalena,KA,Satelital Inmarsat,NOR-0734-002,NORTE
+Santa Bárbara De Pinto,Magdalena,L,Satelital Iridium,NOR-0735-001,NORTE
+Santa Bárbara De Pinto,Magdalena,KA,Satelital Hughes,NOR-0735-002,NORTE
+Santa Marta,Magdalena,KA,Satelital Hughes,NOR-0736-001,NORTE
+Santa Marta,Magdalena,C,Satelital Hughes,NOR-0736-002,NORTE
+Sierra Nevada,Magdalena,KU,Satelital Hughes,NOR-0737-001,NORTE
+Sierra Nevada,Magdalena,KU,Satelital Inmarsat,NOR-0737-002,NORTE
+Sitionuevo,Magdalena,KA,Satelital Hughes,NOR-0738-001,NORTE
+Tenerife,Magdalena,KU,Satelital Iridium,NOR-0739-001,NORTE
+Zapayán,Magdalena,L,Satelital Inmarsat,NOR-0740-001,NORTE
+Zona Bananera,Magdalena,L,Satelital Starlink,NOR-0741-001,NORTE
+Acacías,Meta,KU,Satelital Inmarsat,ORI-0742-001,ORIENTE
+Barranca De Upía,Meta,L,Satelital Starlink,ORI-0743-001,ORIENTE
+Barranca De Upía,Meta,KU,Satelital Hughes,ORI-0743-002,ORIENTE
+Cabuyaro,Meta,KU,Satelital Hughes,ORI-0744-001,ORIENTE
+Cabuyaro,Meta,C,Satelital Inmarsat,ORI-0744-002,ORIENTE
+Castilla La Nueva,Meta,L,Satelital Hughes,ORI-0745-001,ORIENTE
+Castilla La Nueva,Meta,KU,Satelital Iridium,ORI-0745-002,ORIENTE
+Cubarral,Meta,L,Satelital Starlink,ORI-0746-001,ORIENTE
+Cumaral,Meta,KA,Satelital Inmarsat,ORI-0747-001,ORIENTE
+Cumaral,Meta,C,Satelital Starlink,ORI-0747-002,ORIENTE
+El Calvario,Meta,KU,Satelital Inmarsat,ORI-0748-001,ORIENTE
+El Calvario,Meta,L,Satelital Iridium,ORI-0748-002,ORIENTE
+El Castillo,Meta,KA,Satelital Iridium,ORI-0749-001,ORIENTE
+El Dorado,Meta,C,Satelital Starlink,ORI-0750-001,ORIENTE
+El Dorado,Meta,C,Satelital Iridium,ORI-0750-002,ORIENTE
+Fuente De Oro,Meta,C,Satelital Starlink,ORI-0751-001,ORIENTE
+Fuente De Oro,Meta,KA,Satelital Inmarsat,ORI-0751-002,ORIENTE
+Granada,Meta,L,Satelital Inmarsat,ORI-0752-001,ORIENTE
+Guamal,Meta,L,Satelital Inmarsat,ORI-0753-001,ORIENTE
+La Macarena,Meta,KU,Satelital Iridium,ORI-0754-001,ORIENTE
+La Macarena,Meta,KA,Satelital Hughes,ORI-0754-002,ORIENTE
+Lejanías,Meta,C,Satelital Starlink,ORI-0755-001,ORIENTE
+Mapiripán,Meta,L,Satelital Iridium,ORI-0756-001,ORIENTE
+Mapiripán,Meta,KU,Satelital Iridium,ORI-0756-002,ORIENTE
+Mesetas,Meta,L,Satelital Iridium,ORI-0757-001,ORIENTE
+Mesetas,Meta,KU,Satelital Hughes,ORI-0757-002,ORIENTE
+Puerto Concordia,Meta,KA,Satelital Inmarsat,ORI-0758-001,ORIENTE
+Puerto Concordia,Meta,KA,Satelital Inmarsat,ORI-0758-002,ORIENTE
+Puerto Gaitán,Meta,KU,Satelital Iridium,ORI-0759-001,ORIENTE
+Puerto Gaitán,Meta,C,Satelital Inmarsat,ORI-0759-002,ORIENTE
+Puerto Lleras,Meta,KU,Satelital Iridium,ORI-0760-001,ORIENTE
+Puerto López,Meta,KU,Satelital Iridium,ORI-0761-001,ORIENTE
+Puerto Rico,Meta,KA,Satelital Iridium,ORI-0762-001,ORIENTE
+Restrepo,Meta,KA,Satelital Inmarsat,ORI-0763-001,ORIENTE
+Restrepo,Meta,KA,Satelital Hughes,ORI-0763-002,ORIENTE
+San Carlos De Guaroa,Meta,C,Satelital Hughes,ORI-0764-001,ORIENTE
+San Juan De Arama,Meta,KU,Satelital Inmarsat,ORI-0765-001,ORIENTE
+San Juanito,Meta,C,Satelital Starlink,ORI-0766-001,ORIENTE
+San Martín,Meta,KA,Satelital Iridium,ORI-0767-001,ORIENTE
+San Martín,Meta,L,Satelital Iridium,ORI-0767-002,ORIENTE
+Uribe,Meta,KU,Satelital Inmarsat,ORI-0768-001,ORIENTE
+Villavicencio,Meta,L,Satelital Inmarsat,ORI-0769-001,ORIENTE
+Vistahermosa,Meta,KA,Satelital Hughes,ORI-0770-001,ORIENTE
+Albán,Nariño,KA,Satelital Inmarsat,SUR-0771-001,SUR
+Albán,Nariño,KA,Satelital Hughes,SUR-0771-002,SUR
+Aldana,Nariño,KA,Satelital Starlink,SUR-0772-001,SUR
+Aldana,Nariño,C,Satelital Inmarsat,SUR-0772-002,SUR
+Ancuyá,Nariño,L,Satelital Hughes,SUR-0773-001,SUR
+Arboleda,Nariño,C,Satelital Iridium,SUR-0774-001,SUR
+Barbacoas,Nariño,KU,Satelital Hughes,SUR-0775-001,SUR
+Barbacoas,Nariño,C,Satelital Inmarsat,SUR-0775-002,SUR
+Belén,Nariño,KU,Satelital Starlink,SUR-0776-001,SUR
+Belén,Nariño,C,Satelital Inmarsat,SUR-0776-002,SUR
+Buesaco,Nariño,C,Satelital Hughes,SUR-0777-001,SUR
+Buesaco,Nariño,C,Satelital Hughes,SUR-0777-002,SUR
+Chachagüí,Nariño,C,Satelital Inmarsat,SUR-0778-001,SUR
+Colón,Nariño,L,Satelital Starlink,SUR-0779-001,SUR
+Consaca,Nariño,C,Satelital Starlink,SUR-0780-001,SUR
+Contadero,Nariño,L,Satelital Starlink,SUR-0781-001,SUR
+Cuaspud,Nariño,KA,Satelital Inmarsat,SUR-0782-001,SUR
+Cumbal,Nariño,L,Satelital Iridium,SUR-0783-001,SUR
+Cumbitara,Nariño,KA,Satelital Inmarsat,SUR-0784-001,SUR
+Córdoba,Nariño,KU,Satelital Iridium,SUR-0785-001,SUR
+Córdoba,Nariño,KA,Satelital Iridium,SUR-0785-002,SUR
+El Charco,Nariño,KA,Satelital Inmarsat,SUR-0786-001,SUR
+El Peñol,Nariño,KU,Satelital Iridium,SUR-0787-001,SUR
+El Peñol,Nariño,KA,Satelital Starlink,SUR-0787-002,SUR
+El Rosario,Nariño,C,Satelital Inmarsat,SUR-0788-001,SUR
+El Rosario,Nariño,KA,Satelital Iridium,SUR-0788-002,SUR
+El Tablón De Gómez,Nariño,KU,Satelital Iridium,SUR-0789-001,SUR
+El Tablón De Gómez,Nariño,KA,Satelital Starlink,SUR-0789-002,SUR
+El Tambo,Nariño,KU,Satelital Inmarsat,SUR-0790-001,SUR
+El Tambo,Nariño,KA,Satelital Inmarsat,SUR-0790-002,SUR
+Francisco Pizarro,Nariño,C,Satelital Hughes,SUR-0791-001,SUR
+Francisco Pizarro,Nariño,C,Satelital Starlink,SUR-0791-002,SUR
+Funes,Nariño,KU,Satelital Starlink,SUR-0792-001,SUR
+Guachucal,Nariño,KU,Satelital Inmarsat,SUR-0793-001,SUR
+Guachucal,Nariño,KA,Satelital Hughes,SUR-0793-002,SUR
+Guaitarilla,Nariño,KU,Satelital Hughes,SUR-0794-001,SUR
+Guaitarilla,Nariño,C,Satelital Iridium,SUR-0794-002,SUR
+Gualmatán,Nariño,KA,Satelital Hughes,SUR-0795-001,SUR
+Gualmatán,Nariño,L,Satelital Inmarsat,SUR-0795-002,SUR
+Iles,Nariño,C,Satelital Inmarsat,SUR-0796-001,SUR
+Iles,Nariño,KA,Satelital Iridium,SUR-0796-002,SUR
+Imués,Nariño,C,Satelital Inmarsat,SUR-0797-001,SUR
+Imués,Nariño,C,Satelital Inmarsat,SUR-0797-002,SUR
+Ipiales,Nariño,KA,Satelital Hughes,SUR-0798-001,SUR
+Ipiales,Nariño,C,Satelital Inmarsat,SUR-0798-002,SUR
+La Cruz,Nariño,L,Satelital Inmarsat,SUR-0799-001,SUR
+La Cruz,Nariño,KU,Satelital Inmarsat,SUR-0799-002,SUR
+La Florida,Nariño,C,Satelital Inmarsat,SUR-0800-001,SUR
+La Llanada,Nariño,KU,Satelital Inmarsat,SUR-0801-001,SUR
+La Llanada,Nariño,C,Satelital Iridium,SUR-0801-002,SUR
+La Tola,Nariño,KA,Satelital Iridium,SUR-0802-001,SUR
+La Unión,Nariño,L,Satelital Iridium,SUR-0803-001,SUR
+Leiva,Nariño,KA,Satelital Inmarsat,SUR-0804-001,SUR
+Linares,Nariño,C,Satelital Hughes,SUR-0805-001,SUR
+Linares,Nariño,L,Satelital Hughes,SUR-0805-002,SUR
+Los Andes,Nariño,KA,Satelital Hughes,SUR-0806-001,SUR
+Los Andes,Nariño,L,Satelital Hughes,SUR-0806-002,SUR
+Magüi,Nariño,KU,Satelital Iridium,SUR-0807-001,SUR
+Magüi,Nariño,L,Satelital Iridium,SUR-0807-002,SUR
+Mallama,Nariño,KU,Satelital Starlink,SUR-0808-001,SUR
+Mallama,Nariño,KA,Satelital Iridium,SUR-0808-002,SUR
+Mosquera,Nariño,C,Satelital Iridium,SUR-0809-001,SUR
+Mosquera,Nariño,KA,Satelital Inmarsat,SUR-0809-002,SUR
+Nariño,Nariño,C,Satelital Starlink,SUR-0810-001,SUR
+Olaya Herrera,Nariño,KU,Satelital Starlink,SUR-0811-001,SUR
+Olaya Herrera,Nariño,L,Satelital Starlink,SUR-0811-002,SUR
+Ospina,Nariño,KA,Satelital Inmarsat,SUR-0812-001,SUR
+Ospina Perez,Nariño,C,Satelital Iridium,SUR-0813-001,SUR
+Pasto,Nariño,KU,Satelital Inmarsat,SUR-0814-001,SUR
+Policarpa,Nariño,KA,Satelital Starlink,SUR-0815-001,SUR
+Potosí,Nariño,L,Satelital Hughes,SUR-0816-001,SUR
+Providencia,Nariño,KU,Satelital Inmarsat,SUR-0817-001,SUR
+Puerres,Nariño,L,Satelital Iridium,SUR-0818-001,SUR
+Pupiales,Nariño,L,Satelital Inmarsat,SUR-0819-001,SUR
+Pupiales,Nariño,KU,Satelital Inmarsat,SUR-0819-002,SUR
+Ricaurte,Nariño,KA,Satelital Starlink,SUR-0820-001,SUR
+Ricaurte,Nariño,L,Satelital Iridium,SUR-0820-002,SUR
+Roberto Payán,Nariño,L,Satelital Inmarsat,SUR-0821-001,SUR
+Samaniego,Nariño,L,Satelital Iridium,SUR-0822-001,SUR
+Samaniego,Nariño,KA,Satelital Hughes,SUR-0822-002,SUR
+San Andres De Tumaco,Nariño,C,Satelital Iridium,SUR-0823-001,SUR
+San Bernardo,Nariño,KA,Satelital Starlink,SUR-0824-001,SUR
+San Bernardo,Nariño,KU,Satelital Iridium,SUR-0824-002,SUR
+San Lorenzo,Nariño,L,Satelital Hughes,SUR-0825-001,SUR
+San Pablo,Nariño,L,Satelital Hughes,SUR-0826-001,SUR
+San Pablo,Nariño,KA,Satelital Starlink,SUR-0826-002,SUR
+San Pedro De Cartago,Nariño,C,Satelital Iridium,SUR-0827-001,SUR
+San Pedro De Cartago,Nariño,KA,Satelital Starlink,SUR-0827-002,SUR
+Sandoná,Nariño,L,Satelital Inmarsat,SUR-0828-001,SUR
+Sandoná,Nariño,KU,Satelital Inmarsat,SUR-0828-002,SUR
+Santa Bárbara,Nariño,KA,Satelital Hughes,SUR-0829-001,SUR
+Santacruz,Nariño,L,Satelital Inmarsat,SUR-0830-001,SUR
+Sapuyes,Nariño,KA,Satelital Iridium,SUR-0831-001,SUR
+Taminango,Nariño,L,Satelital Inmarsat,SUR-0832-001,SUR
+Tangua,Nariño,KA,Satelital Inmarsat,SUR-0833-001,SUR
+Tangua,Nariño,C,Satelital Hughes,SUR-0833-002,SUR
+Túquerres,Nariño,L,Satelital Starlink,SUR-0834-001,SUR
+Túquerres,Nariño,KU,Satelital Inmarsat,SUR-0834-002,SUR
+Yacuanquer,Nariño,KA,Satelital Starlink,SUR-0835-001,SUR
+Yacuanquer,Nariño,KA,Satelital Hughes,SUR-0835-002,SUR
+Abrego,Norte De Santander,L,Satelital Hughes,NOR-0836-001,NORTE
+Arboledas,Norte De Santander,KU,Satelital Hughes,NOR-0837-001,NORTE
+Arboledas,Norte De Santander,KU,Satelital Hughes,NOR-0837-002,NORTE
+Bochalema,Norte De Santander,C,Satelital Hughes,NOR-0838-001,NORTE
+Bochalema,Norte De Santander,L,Satelital Starlink,NOR-0838-002,NORTE
+Bucarasica,Norte De Santander,L,Satelital Hughes,NOR-0839-001,NORTE
+Bucarasica,Norte De Santander,C,Satelital Inmarsat,NOR-0839-002,NORTE
+Cachirá,Norte De Santander,L,Satelital Starlink,NOR-0840-001,NORTE
+Chinácota,Norte De Santander,C,Satelital Inmarsat,NOR-0841-001,NORTE
+Chitagá,Norte De Santander,KA,Satelital Starlink,NOR-0842-001,NORTE
+Chitagá,Norte De Santander,C,Satelital Inmarsat,NOR-0842-002,NORTE
+Convención,Norte De Santander,C,Satelital Starlink,NOR-0843-001,NORTE
+Cucutilla,Norte De Santander,C,Satelital Iridium,NOR-0844-001,NORTE
+Cácota,Norte De Santander,KU,Satelital Iridium,NOR-0845-001,NORTE
+Cúcuta,Norte De Santander,L,Satelital Hughes,NOR-0846-001,NORTE
+Durania,Norte De Santander,KU,Satelital Inmarsat,NOR-0847-001,NORTE
+El Carmen,Norte De Santander,C,Satelital Starlink,NOR-0848-001,NORTE
+El Carmen,Norte De Santander,L,Satelital Hughes,NOR-0848-002,NORTE
+El Tarra,Norte De Santander,C,Satelital Hughes,NOR-0849-001,NORTE
+El Tarra,Norte De Santander,KU,Satelital Iridium,NOR-0849-002,NORTE
+El Zulia,Norte De Santander,KU,Satelital Iridium,NOR-0850-001,NORTE
+Gramalote,Norte De Santander,C,Satelital Hughes,NOR-0851-001,NORTE
+Gramalote,Norte De Santander,C,Satelital Hughes,NOR-0851-002,NORTE
+Hacarí,Norte De Santander,L,Satelital Inmarsat,NOR-0852-001,NORTE
+Hacarí,Norte De Santander,C,Satelital Inmarsat,NOR-0852-002,NORTE
+Herrán,Norte De Santander,C,Satelital Inmarsat,NOR-0853-001,NORTE
+La Esperanza,Norte De Santander,L,Satelital Iridium,NOR-0854-001,NORTE
+La Esperanza,Norte De Santander,L,Satelital Iridium,NOR-0854-002,NORTE
+La Playa,Norte De Santander,L,Satelital Inmarsat,NOR-0855-001,NORTE
+La Playa,Norte De Santander,KU,Satelital Iridium,NOR-0855-002,NORTE
+Labateca,Norte De Santander,L,Satelital Starlink,NOR-0856-001,NORTE
+Los Patios,Norte De Santander,KA,Satelital Hughes,NOR-0857-001,NORTE
+Lourdes,Norte De Santander,C,Satelital Starlink,NOR-0858-001,NORTE
+Lourdes,Norte De Santander,C,Satelital Inmarsat,NOR-0858-002,NORTE
+Mutiscua,Norte De Santander,L,Satelital Starlink,NOR-0859-001,NORTE
+Ocaña,Norte De Santander,KU,Satelital Hughes,NOR-0860-001,NORTE
+Pamplona,Norte De Santander,KA,Satelital Hughes,NOR-0861-001,NORTE
+Pamplonita,Norte De Santander,C,Satelital Hughes,NOR-0862-001,NORTE
+Pamplonita,Norte De Santander,KU,Satelital Starlink,NOR-0862-002,NORTE
+Puerto Santander,Norte De Santander,KU,Satelital Starlink,NOR-0863-001,NORTE
+Ragonvalia,Norte De Santander,C,Satelital Iridium,NOR-0864-001,NORTE
+Ragonvalia,Norte De Santander,KU,Satelital Starlink,NOR-0864-002,NORTE
+Salazar,Norte De Santander,C,Satelital Hughes,NOR-0865-001,NORTE
+Salazar,Norte De Santander,L,Satelital Starlink,NOR-0865-002,NORTE
+San Calixto,Norte De Santander,KU,Satelital Inmarsat,NOR-0866-001,NORTE
+San Calixto,Norte De Santander,KU,Satelital Iridium,NOR-0866-002,NORTE
+San Cayetano,Norte De Santander,KA,Satelital Hughes,NOR-0867-001,NORTE
+Santiago,Norte De Santander,C,Satelital Iridium,NOR-0868-001,NORTE
+Sardinata,Norte De Santander,KA,Satelital Iridium,NOR-0869-001,NORTE
+Sardinata,Norte De Santander,KU,Satelital Hughes,NOR-0869-002,NORTE
+Silos,Norte De Santander,C,Satelital Starlink,NOR-0870-001,NORTE
+Silos,Norte De Santander,KA,Satelital Inmarsat,NOR-0870-002,NORTE
+Teorama,Norte De Santander,C,Satelital Inmarsat,NOR-0871-001,NORTE
+Tibú,Norte De Santander,KU,Satelital Inmarsat,NOR-0872-001,NORTE
+Tibú,Norte De Santander,KU,Satelital Iridium,NOR-0872-002,NORTE
+Toledo,Norte De Santander,KA,Satelital Inmarsat,NOR-0873-001,NORTE
+Toledo,Norte De Santander,C,Satelital Inmarsat,NOR-0873-002,NORTE
+Villa Caro,Norte De Santander,L,Satelital Iridium,NOR-0874-001,NORTE
+Villa Del Rosario,Norte De Santander,L,Satelital Iridium,NOR-0875-001,NORTE
+Colón,Putumayo,L,Satelital Inmarsat,SUR-0876-001,SUR
+Colón,Putumayo,KA,Satelital Inmarsat,SUR-0876-002,SUR
+Mocoa,Putumayo,L,Satelital Inmarsat,SUR-0877-001,SUR
+Orito,Putumayo,C,Satelital Starlink,SUR-0878-001,SUR
+Puerto Asís,Putumayo,L,Satelital Inmarsat,SUR-0879-001,SUR
+Puerto Asís,Putumayo,C,Satelital Hughes,SUR-0879-002,SUR
+Puerto Caicedo,Putumayo,L,Satelital Starlink,SUR-0880-001,SUR
+Puerto Guzmán,Putumayo,KU,Satelital Iridium,SUR-0881-001,SUR
+Puerto Leguizamo,Putumayo,KA,Satelital Inmarsat,SUR-0882-001,SUR
+Puerto Leguizamo,Putumayo,KA,Satelital Inmarsat,SUR-0882-002,SUR
+San Francisco,Putumayo,L,Satelital Starlink,SUR-0883-001,SUR
+San Miguel,Putumayo,KA,Satelital Iridium,SUR-0884-001,SUR
+Santiago,Putumayo,C,Satelital Starlink,SUR-0885-001,SUR
+Sibundoy,Putumayo,C,Satelital Hughes,SUR-0886-001,SUR
+Sibundoy,Putumayo,L,Satelital Inmarsat,SUR-0886-002,SUR
+Valle Del Guamuez,Putumayo,C,Satelital Hughes,SUR-0887-001,SUR
+Villagarzón,Putumayo,C,Satelital Inmarsat,SUR-0888-001,SUR
+Villagarzón,Putumayo,KA,Satelital Starlink,SUR-0888-002,SUR
+Armenia,Quindío,C,Satelital Inmarsat,OCC-0889-001,OCCIDENTE
+Buenavista,Quindío,KU,Satelital Starlink,OCC-0890-001,OCCIDENTE
+Calarca,Quindío,L,Satelital Iridium,OCC-0891-001,OCCIDENTE
+Circasia,Quindío,L,Satelital Starlink,OCC-0892-001,OCCIDENTE
+Circasia,Quindío,KA,Satelital Hughes,OCC-0892-002,OCCIDENTE
+Córdoba,Quindío,L,Satelital Starlink,OCC-0893-001,OCCIDENTE
+Filandia,Quindío,KA,Satelital Iridium,OCC-0894-001,OCCIDENTE
+Filandia,Quindío,C,Satelital Hughes,OCC-0894-002,OCCIDENTE
+Génova,Quindío,C,Satelital Iridium,OCC-0895-001,OCCIDENTE
+Génova,Quindío,L,Satelital Starlink,OCC-0895-002,OCCIDENTE
+La Tebaida,Quindío,C,Satelital Starlink,OCC-0896-001,OCCIDENTE
+Montenegro,Quindío,KU,Satelital Starlink,OCC-0897-001,OCCIDENTE
+Pijao,Quindío,KU,Satelital Iridium,OCC-0898-001,OCCIDENTE
+Quimbaya,Quindío,KA,Satelital Hughes,OCC-0899-001,OCCIDENTE
+Quimbaya,Quindío,L,Satelital Hughes,OCC-0899-002,OCCIDENTE
+Salento,Quindío,KU,Satelital Starlink,OCC-0900-001,OCCIDENTE
+Apía,Risaralda,L,Satelital Hughes,OCC-0901-001,OCCIDENTE
+Balboa,Risaralda,L,Satelital Hughes,OCC-0902-001,OCCIDENTE
+Balboa,Risaralda,KA,Satelital Inmarsat,OCC-0902-002,OCCIDENTE
+Belén De Umbría,Risaralda,C,Satelital Inmarsat,OCC-0903-001,OCCIDENTE
+Belén De Umbría,Risaralda,KU,Satelital Starlink,OCC-0903-002,OCCIDENTE
+Dosquebradas,Risaralda,KU,Satelital Iridium,OCC-0904-001,OCCIDENTE
+Guática,Risaralda,C,Satelital Hughes,OCC-0905-001,OCCIDENTE
+Guática,Risaralda,C,Satelital Inmarsat,OCC-0905-002,OCCIDENTE
+La Celia,Risaralda,L,Satelital Inmarsat,OCC-0906-001,OCCIDENTE
+La Celia,Risaralda,KU,Satelital Starlink,OCC-0906-002,OCCIDENTE
+La Virginia,Risaralda,L,Satelital Iridium,OCC-0907-001,OCCIDENTE
+Marsella,Risaralda,KU,Satelital Starlink,OCC-0908-001,OCCIDENTE
+Marsella,Risaralda,L,Satelital Iridium,OCC-0908-002,OCCIDENTE
+Mistrató,Risaralda,C,Satelital Starlink,OCC-0909-001,OCCIDENTE
+Pereira,Risaralda,C,Satelital Starlink,OCC-0910-001,OCCIDENTE
+Pueblo Rico,Risaralda,KU,Satelital Iridium,OCC-0911-001,OCCIDENTE
+Pueblo Rico,Risaralda,L,Satelital Hughes,OCC-0911-002,OCCIDENTE
+Quinchía,Risaralda,C,Satelital Inmarsat,OCC-0912-001,OCCIDENTE
+Quinchía,Risaralda,KA,Satelital Starlink,OCC-0912-002,OCCIDENTE
+Santa Rosa De Cabal,Risaralda,KA,Satelital Inmarsat,OCC-0913-001,OCCIDENTE
+Santa Rosa De Cabal,Risaralda,KA,Satelital Iridium,OCC-0913-002,OCCIDENTE
+Santuario,Risaralda,KU,Satelital Inmarsat,OCC-0914-001,OCCIDENTE
+Aguada,Santander,L,Satelital Hughes,NOR-0915-001,NORTE
+Albania,Santander,L,Satelital Iridium,NOR-0916-001,NORTE
+Aratoca,Santander,KU,Satelital Iridium,NOR-0917-001,NORTE
+Barbosa,Santander,KU,Satelital Hughes,NOR-0918-001,NORTE
+Barichara,Santander,KU,Satelital Starlink,NOR-0919-001,NORTE
+Barichara,Santander,L,Satelital Hughes,NOR-0919-002,NORTE
+Barrancabermeja,Santander,L,Satelital Starlink,NOR-0920-001,NORTE
+Barrancabermeja,Santander,KA,Satelital Starlink,NOR-0920-002,NORTE
+Betulia,Santander,C,Satelital Starlink,NOR-0921-001,NORTE
+Betulia,Santander,L,Satelital Starlink,NOR-0921-002,NORTE
+Bolívar,Santander,L,Satelital Inmarsat,NOR-0922-001,NORTE
+Bolívar,Santander,KU,Satelital Starlink,NOR-0922-002,NORTE
+Bucaramanga,Santander,C,Satelital Starlink,NOR-0923-001,NORTE
+Cabrera,Santander,KA,Satelital Iridium,NOR-0924-001,NORTE
+Cabrera,Santander,KU,Satelital Inmarsat,NOR-0924-002,NORTE
+California,Santander,C,Satelital Hughes,NOR-0925-001,NORTE
+California,Santander,C,Satelital Iridium,NOR-0925-002,NORTE
+Capitanejo,Santander,KU,Satelital Iridium,NOR-0926-001,NORTE
+Carcasí,Santander,KA,Satelital Iridium,NOR-0927-001,NORTE
+Carcasí,Santander,KA,Satelital Hughes,NOR-0927-002,NORTE
+Cepitá,Santander,KU,Satelital Hughes,NOR-0928-001,NORTE
+Cerrito,Santander,C,Satelital Starlink,NOR-0929-001,NORTE
+Cerrito,Santander,KA,Satelital Inmarsat,NOR-0929-002,NORTE
+Charalá,Santander,KU,Satelital Iridium,NOR-0930-001,NORTE
+Charta,Santander,C,Satelital Iridium,NOR-0931-001,NORTE
+Chima,Santander,C,Satelital Inmarsat,NOR-0932-001,NORTE
+Chima,Santander,KA,Satelital Iridium,NOR-0932-002,NORTE
+Chipatá,Santander,C,Satelital Starlink,NOR-0933-001,NORTE
+Cimitarra,Santander,KU,Satelital Hughes,NOR-0934-001,NORTE
+Concepción,Santander,KA,Satelital Hughes,NOR-0935-001,NORTE
+Concepción,Santander,KU,Satelital Hughes,NOR-0935-002,NORTE
+Confines,Santander,C,Satelital Hughes,NOR-0936-001,NORTE
+Confines,Santander,L,Satelital Starlink,NOR-0936-002,NORTE
+Contratación,Santander,C,Satelital Starlink,NOR-0937-001,NORTE
+Coromoro,Santander,KU,Satelital Inmarsat,NOR-0938-001,NORTE
+Curití,Santander,C,Satelital Iridium,NOR-0939-001,NORTE
+Curití,Santander,KA,Satelital Iridium,NOR-0939-002,NORTE
+El Carmen De Chucurí,Santander,KA,Satelital Starlink,NOR-0940-001,NORTE
+El Guacamayo,Santander,L,Satelital Hughes,NOR-0941-001,NORTE
+El Guacamayo,Santander,KU,Satelital Iridium,NOR-0941-002,NORTE
+El Peñón,Santander,C,Satelital Inmarsat,NOR-0942-001,NORTE
+El Peñón,Santander,L,Satelital Hughes,NOR-0942-002,NORTE
+El Playón,Santander,KA,Satelital Starlink,NOR-0943-001,NORTE
+El Playón,Santander,L,Satelital Inmarsat,NOR-0943-002,NORTE
+Encino,Santander,KA,Satelital Starlink,NOR-0944-001,NORTE
+Enciso,Santander,L,Satelital Iridium,NOR-0945-001,NORTE
+Floridablanca,Santander,L,Satelital Starlink,NOR-0946-001,NORTE
+Floridablanca,Santander,KA,Satelital Starlink,NOR-0946-002,NORTE
+Florián,Santander,L,Satelital Inmarsat,NOR-0947-001,NORTE
+Galán,Santander,L,Satelital Iridium,NOR-0948-001,NORTE
+Gambita,Santander,KU,Satelital Hughes,NOR-0949-001,NORTE
+Gambita,Santander,KU,Satelital Inmarsat,NOR-0949-002,NORTE
+Girón,Santander,L,Satelital Iridium,NOR-0950-001,NORTE
+Girón,Santander,L,Satelital Iridium,NOR-0950-002,NORTE
+Guaca,Santander,KA,Satelital Inmarsat,NOR-0951-001,NORTE
+Guadalupe,Santander,L,Satelital Iridium,NOR-0952-001,NORTE
+Guapotá,Santander,KU,Satelital Inmarsat,NOR-0953-001,NORTE
+Guavatá,Santander,KA,Satelital Inmarsat,NOR-0954-001,NORTE
+Güepsa,Santander,KU,Satelital Starlink,NOR-0955-001,NORTE
+Hato,Santander,C,Satelital Iridium,NOR-0956-001,NORTE
+Hato,Santander,C,Satelital Starlink,NOR-0956-002,NORTE
+Jesús María,Santander,KA,Satelital Inmarsat,NOR-0957-001,NORTE
+Jesús María,Santander,C,Satelital Hughes,NOR-0957-002,NORTE
+Jordán,Santander,KA,Satelital Starlink,NOR-0958-001,NORTE
+Jordán,Santander,L,Satelital Iridium,NOR-0958-002,NORTE
+La Belleza,Santander,C,Satelital Starlink,NOR-0959-001,NORTE
+La Belleza,Santander,C,Satelital Inmarsat,NOR-0959-002,NORTE
+La Paz,Santander,KA,Satelital Hughes,NOR-0960-001,NORTE
+La Paz,Santander,C,Satelital Inmarsat,NOR-0960-002,NORTE
+Landázuri,Santander,KA,Satelital Hughes,NOR-0961-001,NORTE
+Landázuri,Santander,L,Satelital Inmarsat,NOR-0961-002,NORTE
+Lebríja,Santander,KU,Satelital Inmarsat,NOR-0962-001,NORTE
+Los Santos,Santander,C,Satelital Iridium,NOR-0963-001,NORTE
+Los Santos,Santander,KA,Satelital Inmarsat,NOR-0963-002,NORTE
+Macaravita,Santander,KA,Satelital Starlink,NOR-0964-001,NORTE
+Macaravita,Santander,KU,Satelital Iridium,NOR-0964-002,NORTE
+Matanza,Santander,KU,Satelital Starlink,NOR-0965-001,NORTE
+Matanza,Santander,KA,Satelital Inmarsat,NOR-0965-002,NORTE
+Mogotes,Santander,C,Satelital Iridium,NOR-0966-001,NORTE
+Molagavita,Santander,L,Satelital Inmarsat,NOR-0967-001,NORTE
+Málaga,Santander,KA,Satelital Inmarsat,NOR-0968-001,NORTE
+Ocamonte,Santander,L,Satelital Hughes,NOR-0969-001,NORTE
+Oiba,Santander,KU,Satelital Iridium,NOR-0970-001,NORTE
+Oiba,Santander,KU,Satelital Inmarsat,NOR-0970-002,NORTE
+Onzaga,Santander,KU,Satelital Hughes,NOR-0971-001,NORTE
+Onzaga,Santander,KA,Satelital Starlink,NOR-0971-002,NORTE
+Palmar,Santander,KA,Satelital Iridium,NOR-0972-001,NORTE
+Palmar,Santander,KA,Satelital Hughes,NOR-0972-002,NORTE
+Palmas Del Socorro,Santander,C,Satelital Starlink,NOR-0973-001,NORTE
+Piedecuesta,Santander,KU,Satelital Inmarsat,NOR-0974-001,NORTE
+Pinchote,Santander,KU,Satelital Inmarsat,NOR-0975-001,NORTE
+Pinchote,Santander,C,Satelital Inmarsat,NOR-0975-002,NORTE
+Puente Nacional,Santander,KU,Satelital Hughes,NOR-0976-001,NORTE
+Puente Nacional,Santander,L,Satelital Hughes,NOR-0976-002,NORTE
+Puerto Parra,Santander,KA,Satelital Hughes,NOR-0977-001,NORTE
+Puerto Parra,Santander,L,Satelital Inmarsat,NOR-0977-002,NORTE
+Puerto Wilches,Santander,L,Satelital Iridium,NOR-0978-001,NORTE
+Páramo,Santander,KU,Satelital Inmarsat,NOR-0979-001,NORTE
+Rionegro,Santander,KA,Satelital Starlink,NOR-0980-001,NORTE
+Rionegro,Santander,KU,Satelital Iridium,NOR-0980-002,NORTE
+Sabana De Torres,Santander,L,Satelital Starlink,NOR-0981-001,NORTE
+Sabana De Torres,Santander,KA,Satelital Iridium,NOR-0981-002,NORTE
+San Andrés,Santander,KU,Satelital Starlink,NOR-0982-001,NORTE
+San Benito,Santander,L,Satelital Hughes,NOR-0983-001,NORTE
+San Gil,Santander,C,Satelital Hughes,NOR-0984-001,NORTE
+San Gil,Santander,KU,Satelital Iridium,NOR-0984-002,NORTE
+San Joaquín,Santander,C,Satelital Starlink,NOR-0985-001,NORTE
+San José De Miranda,Santander,KA,Satelital Iridium,NOR-0986-001,NORTE
+San José De Miranda,Santander,KU,Satelital Inmarsat,NOR-0986-002,NORTE
+San Miguel,Santander,KU,Satelital Iridium,NOR-0987-001,NORTE
+San Vicente De Chucurí,Santander,KU,Satelital Hughes,NOR-0988-001,NORTE
+Santa Bárbara,Santander,KU,Satelital Hughes,NOR-0989-001,NORTE
+Santa Bárbara,Santander,KA,Satelital Hughes,NOR-0989-002,NORTE
+Santa Helena Del Opón,Santander,KA,Satelital Iridium,NOR-0990-001,NORTE
+Simacota,Santander,L,Satelital Iridium,NOR-0991-001,NORTE
+Socorro,Santander,C,Satelital Starlink,NOR-0992-001,NORTE
+Suaita,Santander,L,Satelital Hughes,NOR-0993-001,NORTE
+Sucre,Santander,KU,Satelital Starlink,NOR-0994-001,NORTE
+Suratá,Santander,C,Satelital Iridium,NOR-0995-001,NORTE
+Tona,Santander,L,Satelital Starlink,NOR-0996-001,NORTE
+Valle De San José,Santander,C,Satelital Starlink,NOR-0997-001,NORTE
+Valle De San José,Santander,KU,Satelital Hughes,NOR-0997-002,NORTE
+Vetas,Santander,C,Satelital Iridium,NOR-0998-001,NORTE
+Vetas,Santander,L,Satelital Starlink,NOR-0998-002,NORTE
+Villanueva,Santander,C,Satelital Inmarsat,NOR-0999-001,NORTE
+Vélez,Santander,C,Satelital Inmarsat,NOR-1000-001,NORTE
+Zapatoca,Santander,KU,Satelital Inmarsat,NOR-1001-001,NORTE
+Zapatoca,Santander,L,Satelital Hughes,NOR-1001-002,NORTE
+Buenavista,Sucre,KA,Satelital Hughes,NOR-1002-001,NORTE
+Caimito,Sucre,KA,Satelital Starlink,NOR-1003-001,NORTE
+Caimito,Sucre,KA,Satelital Iridium,NOR-1003-002,NORTE
+Chalán,Sucre,L,Satelital Starlink,NOR-1004-001,NORTE
+Chalán,Sucre,C,Satelital Inmarsat,NOR-1004-002,NORTE
+Coloso,Sucre,KU,Satelital Starlink,NOR-1005-001,NORTE
+Coloso,Sucre,KA,Satelital Iridium,NOR-1005-002,NORTE
+Corozal,Sucre,C,Satelital Inmarsat,NOR-1006-001,NORTE
+Corozal,Sucre,L,Satelital Iridium,NOR-1006-002,NORTE
+Coveñas,Sucre,KU,Satelital Starlink,NOR-1007-001,NORTE
+Coveñas,Sucre,C,Satelital Hughes,NOR-1007-002,NORTE
+El Roble,Sucre,KA,Satelital Iridium,NOR-1008-001,NORTE
+Galeras,Sucre,L,Satelital Hughes,NOR-1009-001,NORTE
+Galeras,Sucre,KU,Satelital Hughes,NOR-1009-002,NORTE
+Guaranda,Sucre,KU,Satelital Inmarsat,NOR-1010-001,NORTE
+La Unión,Sucre,KU,Satelital Inmarsat,NOR-1011-001,NORTE
+Los Palmitos,Sucre,L,Satelital Hughes,NOR-1012-001,NORTE
+Los Palmitos,Sucre,C,Satelital Starlink,NOR-1012-002,NORTE
+Majagual,Sucre,KA,Satelital Starlink,NOR-1013-001,NORTE
+Majagual,Sucre,C,Satelital Starlink,NOR-1013-002,NORTE
+Morroa,Sucre,L,Satelital Starlink,NOR-1014-001,NORTE
+Morroa,Sucre,KU,Satelital Inmarsat,NOR-1014-002,NORTE
+Ovejas,Sucre,KA,Satelital Iridium,NOR-1015-001,NORTE
+Palmito,Sucre,L,Satelital Inmarsat,NOR-1016-001,NORTE
+Sampués,Sucre,C,Satelital Iridium,NOR-1017-001,NORTE
+Sampués,Sucre,KA,Satelital Hughes,NOR-1017-002,NORTE
+San Benito Abad,Sucre,C,Satelital Starlink,NOR-1018-001,NORTE
+San Benito Abad,Sucre,KU,Satelital Iridium,NOR-1018-002,NORTE
+San Juan De Betulia,Sucre,C,Satelital Hughes,NOR-1019-001,NORTE
+San Juan De Betulia,Sucre,KA,Satelital Iridium,NOR-1019-002,NORTE
+San Luis De Sincé,Sucre,L,Satelital Starlink,NOR-1020-001,NORTE
+San Marcos,Sucre,KU,Satelital Inmarsat,NOR-1021-001,NORTE
+San Onofre,Sucre,KA,Satelital Iridium,NOR-1022-001,NORTE
+San Pedro,Sucre,C,Satelital Iridium,NOR-1023-001,NORTE
+Santiago De Tolú,Sucre,C,Satelital Inmarsat,NOR-1024-001,NORTE
+Santiago De Tolú,Sucre,KA,Satelital Inmarsat,NOR-1024-002,NORTE
+Sincelejo,Sucre,C,Satelital Inmarsat,NOR-1025-001,NORTE
+Sucre,Sucre,KU,Satelital Hughes,NOR-1026-001,NORTE
+Tolú Viejo,Sucre,C,Satelital Iridium,NOR-1027-001,NORTE
+Alpujarra,Tolima,KU,Satelital Hughes,OCC-1028-001,OCCIDENTE
+Alvarado,Tolima,C,Satelital Iridium,OCC-1029-001,OCCIDENTE
+Alvarado,Tolima,KA,Satelital Inmarsat,OCC-1029-002,OCCIDENTE
+Ambalema,Tolima,KA,Satelital Inmarsat,OCC-1030-001,OCCIDENTE
+Ambalema,Tolima,L,Satelital Inmarsat,OCC-1030-002,OCCIDENTE
+Anzoátegui,Tolima,C,Satelital Starlink,OCC-1031-001,OCCIDENTE
+Armero,Tolima,KU,Satelital Iridium,OCC-1032-001,OCCIDENTE
+Ataco,Tolima,C,Satelital Starlink,OCC-1033-001,OCCIDENTE
+Ataco,Tolima,L,Satelital Starlink,OCC-1033-002,OCCIDENTE
+Cajamarca,Tolima,L,Satelital Inmarsat,OCC-1034-001,OCCIDENTE
+Carmen De Apicalá,Tolima,KU,Satelital Hughes,OCC-1035-001,OCCIDENTE
+Casabianca,Tolima,KA,Satelital Iridium,OCC-1036-001,OCCIDENTE
+Casabianca,Tolima,KA,Satelital Hughes,OCC-1036-002,OCCIDENTE
+Chaparral,Tolima,KU,Satelital Hughes,OCC-1037-001,OCCIDENTE
+Chaparral,Tolima,KU,Satelital Hughes,OCC-1037-002,OCCIDENTE
+Coello,Tolima,C,Satelital Inmarsat,OCC-1038-001,OCCIDENTE
+Coyaima,Tolima,KU,Satelital Iridium,OCC-1039-001,OCCIDENTE
+Cunday,Tolima,KA,Satelital Hughes,OCC-1040-001,OCCIDENTE
+Dolores,Tolima,KA,Satelital Starlink,OCC-1041-001,OCCIDENTE
+Dolores,Tolima,L,Satelital Iridium,OCC-1041-002,OCCIDENTE
+Espinal,Tolima,KA,Satelital Inmarsat,OCC-1042-001,OCCIDENTE
+Espinal,Tolima,C,Satelital Hughes,OCC-1042-002,OCCIDENTE
+Falan,Tolima,KA,Satelital Iridium,OCC-1043-001,OCCIDENTE
+Flandes,Tolima,L,Satelital Inmarsat,OCC-1044-001,OCCIDENTE
+Flandes,Tolima,KA,Satelital Starlink,OCC-1044-002,OCCIDENTE
+Fresno,Tolima,L,Satelital Inmarsat,OCC-1045-001,OCCIDENTE
+Guamo,Tolima,C,Satelital Inmarsat,OCC-1046-001,OCCIDENTE
+Herveo,Tolima,C,Satelital Hughes,OCC-1047-001,OCCIDENTE
+Herveo,Tolima,L,Satelital Iridium,OCC-1047-002,OCCIDENTE
+Honda,Tolima,L,Satelital Inmarsat,OCC-1048-001,OCCIDENTE
+Ibagué,Tolima,L,Satelital Starlink,OCC-1049-001,OCCIDENTE
+Ibagué,Tolima,KA,Satelital Hughes,OCC-1049-002,OCCIDENTE
+Icononzo,Tolima,KU,Satelital Starlink,OCC-1050-001,OCCIDENTE
+Icononzo,Tolima,C,Satelital Iridium,OCC-1050-002,OCCIDENTE
+Lérida,Tolima,C,Satelital Inmarsat,OCC-1051-001,OCCIDENTE
+Lérida,Tolima,L,Satelital Hughes,OCC-1051-002,OCCIDENTE
+Líbano,Tolima,KU,Satelital Iridium,OCC-1052-001,OCCIDENTE
+Mariquita,Tolima,KU,Satelital Iridium,OCC-1053-001,OCCIDENTE
+Melgar,Tolima,L,Satelital Iridium,OCC-1054-001,OCCIDENTE
+Melgar,Tolima,KA,Satelital Iridium,OCC-1054-002,OCCIDENTE
+Murillo,Tolima,KU,Satelital Starlink,OCC-1055-001,OCCIDENTE
+Natagaima,Tolima,KU,Satelital Iridium,OCC-1056-001,OCCIDENTE
+Ortega,Tolima,KA,Satelital Iridium,OCC-1057-001,OCCIDENTE
+Palocabildo,Tolima,C,Satelital Iridium,OCC-1058-001,OCCIDENTE
+Piedras,Tolima,KA,Satelital Starlink,OCC-1059-001,OCCIDENTE
+Piedras,Tolima,KU,Satelital Inmarsat,OCC-1059-002,OCCIDENTE
+Planadas,Tolima,KU,Satelital Hughes,OCC-1060-001,OCCIDENTE
+Prado,Tolima,KA,Satelital Hughes,OCC-1061-001,OCCIDENTE
+Purificación,Tolima,L,Satelital Starlink,OCC-1062-001,OCCIDENTE
+Purificación,Tolima,C,Satelital Iridium,OCC-1062-002,OCCIDENTE
+Rioblanco,Tolima,KA,Satelital Iridium,OCC-1063-001,OCCIDENTE
+Roncesvalles,Tolima,KA,Satelital Inmarsat,OCC-1064-001,OCCIDENTE
+Rovira,Tolima,KU,Satelital Iridium,OCC-1065-001,OCCIDENTE
+Saldaña,Tolima,L,Satelital Starlink,OCC-1066-001,OCCIDENTE
+San Antonio,Tolima,C,Satelital Inmarsat,OCC-1067-001,OCCIDENTE
+San Antonio,Tolima,L,Satelital Starlink,OCC-1067-002,OCCIDENTE
+San Luis,Tolima,L,Satelital Inmarsat,OCC-1068-001,OCCIDENTE
+Santa Isabel,Tolima,C,Satelital Starlink,OCC-1069-001,OCCIDENTE
+Santa Isabel,Tolima,C,Satelital Iridium,OCC-1069-002,OCCIDENTE
+Suárez,Tolima,KA,Satelital Inmarsat,OCC-1070-001,OCCIDENTE
+Suárez,Tolima,KU,Satelital Hughes,OCC-1070-002,OCCIDENTE
+Valle De San Juan,Tolima,KU,Satelital Inmarsat,OCC-1071-001,OCCIDENTE
+Valle De San Juan,Tolima,KU,Satelital Iridium,OCC-1071-002,OCCIDENTE
+Venadillo,Tolima,C,Satelital Inmarsat,OCC-1072-001,OCCIDENTE
+Villahermosa,Tolima,C,Satelital Hughes,OCC-1073-001,OCCIDENTE
+Villahermosa,Tolima,C,Satelital Iridium,OCC-1073-002,OCCIDENTE
+Villarrica,Tolima,KU,Satelital Iridium,OCC-1074-001,OCCIDENTE
+Villarrica,Tolima,KU,Satelital Hughes,OCC-1074-002,OCCIDENTE
+Alcalá,Valle Del Cauca,L,Satelital Starlink,OCC-1075-001,OCCIDENTE
+Alcalá,Valle Del Cauca,KU,Satelital Starlink,OCC-1075-002,OCCIDENTE
+Andalucía,Valle Del Cauca,KU,Satelital Starlink,OCC-1076-001,OCCIDENTE
+Andalucía,Valle Del Cauca,KU,Satelital Iridium,OCC-1076-002,OCCIDENTE
+Ansermanuevo,Valle Del Cauca,KA,Satelital Hughes,OCC-1077-001,OCCIDENTE
+Ansermanuevo,Valle Del Cauca,C,Satelital Iridium,OCC-1077-002,OCCIDENTE
+Argelia,Valle Del Cauca,KA,Satelital Iridium,OCC-1078-001,OCCIDENTE
+Bahía Málaga,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1079-001,OCCIDENTE
+Bolívar,Valle Del Cauca,KU,Satelital Starlink,OCC-1080-001,OCCIDENTE
+Bolívar,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1080-002,OCCIDENTE
+Buenaventura,Valle Del Cauca,L,Satelital Hughes,OCC-1081-001,OCCIDENTE
+Buenaventura,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1081-002,OCCIDENTE
+Bugalagrande,Valle Del Cauca,L,Satelital Hughes,OCC-1082-001,OCCIDENTE
+Bugalagrande,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1082-002,OCCIDENTE
+Caicedonia,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1083-001,OCCIDENTE
+Cali,Valle Del Cauca,L,Satelital Inmarsat,OCC-1084-001,OCCIDENTE
+Calima,Valle Del Cauca,C,Satelital Inmarsat,OCC-1085-001,OCCIDENTE
+Candelaria,Valle Del Cauca,KU,Satelital Hughes,OCC-1086-001,OCCIDENTE
+Candelaria,Valle Del Cauca,L,Satelital Starlink,OCC-1086-002,OCCIDENTE
+Cartago,Valle Del Cauca,L,Satelital Inmarsat,OCC-1087-001,OCCIDENTE
+Cartago,Valle Del Cauca,KA,Satelital Iridium,OCC-1087-002,OCCIDENTE
+Dagua,Valle Del Cauca,KU,Satelital Iridium,OCC-1088-001,OCCIDENTE
+El Cairo,Valle Del Cauca,L,Satelital Inmarsat,OCC-1089-001,OCCIDENTE
+El Cairo,Valle Del Cauca,KA,Satelital Iridium,OCC-1089-002,OCCIDENTE
+El Cerrito,Valle Del Cauca,C,Satelital Inmarsat,OCC-1090-001,OCCIDENTE
+El Cerrito,Valle Del Cauca,C,Satelital Iridium,OCC-1090-002,OCCIDENTE
+El Dovio,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1091-001,OCCIDENTE
+El Dovio,Valle Del Cauca,L,Satelital Starlink,OCC-1091-002,OCCIDENTE
+El Águila,Valle Del Cauca,KU,Satelital Iridium,OCC-1092-001,OCCIDENTE
+El Águila,Valle Del Cauca,KU,Satelital Iridium,OCC-1092-002,OCCIDENTE
+Florida,Valle Del Cauca,L,Satelital Starlink,OCC-1093-001,OCCIDENTE
+Florida,Valle Del Cauca,KA,Satelital Iridium,OCC-1093-002,OCCIDENTE
+Ginebra,Valle Del Cauca,C,Satelital Iridium,OCC-1094-001,OCCIDENTE
+Ginebra,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1094-002,OCCIDENTE
+Guacarí,Valle Del Cauca,C,Satelital Hughes,OCC-1095-001,OCCIDENTE
+Guacarí,Valle Del Cauca,C,Satelital Iridium,OCC-1095-002,OCCIDENTE
+Guadalajara De Buga,Valle Del Cauca,KA,Satelital Hughes,OCC-1096-001,OCCIDENTE
+Jamundí,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1097-001,OCCIDENTE
+Jamundí,Valle Del Cauca,C,Satelital Hughes,OCC-1097-002,OCCIDENTE
+La Cumbre,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1098-001,OCCIDENTE
+La Unión,Valle Del Cauca,L,Satelital Iridium,OCC-1099-001,OCCIDENTE
+La Victoria,Valle Del Cauca,KA,Satelital Starlink,OCC-1100-001,OCCIDENTE
+La Victoria,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1100-002,OCCIDENTE
+Obando,Valle Del Cauca,KA,Satelital Starlink,OCC-1101-001,OCCIDENTE
+Palmira,Valle Del Cauca,C,Satelital Iridium,OCC-1102-001,OCCIDENTE
+Palmira,Valle Del Cauca,KA,Satelital Starlink,OCC-1102-002,OCCIDENTE
+Pradera,Valle Del Cauca,KA,Satelital Inmarsat,OCC-1103-001,OCCIDENTE
+Pradera,Valle Del Cauca,C,Satelital Starlink,OCC-1103-002,OCCIDENTE
+Restrepo,Valle Del Cauca,C,Satelital Inmarsat,OCC-1104-001,OCCIDENTE
+Restrepo,Valle Del Cauca,KA,Satelital Starlink,OCC-1104-002,OCCIDENTE
+Riofrío,Valle Del Cauca,L,Satelital Iridium,OCC-1105-001,OCCIDENTE
+Riofrío,Valle Del Cauca,KU,Satelital Iridium,OCC-1105-002,OCCIDENTE
+Roldanillo,Valle Del Cauca,KU,Satelital Iridium,OCC-1106-001,OCCIDENTE
+San Pedro,Valle Del Cauca,C,Satelital Iridium,OCC-1107-001,OCCIDENTE
+San Pedro,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1107-002,OCCIDENTE
+Sevilla,Valle Del Cauca,C,Satelital Iridium,OCC-1108-001,OCCIDENTE
+Toro,Valle Del Cauca,L,Satelital Inmarsat,OCC-1109-001,OCCIDENTE
+Trujillo,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1110-001,OCCIDENTE
+Trujillo,Valle Del Cauca,KU,Satelital Hughes,OCC-1110-002,OCCIDENTE
+Tuluá,Valle Del Cauca,KA,Satelital Hughes,OCC-1111-001,OCCIDENTE
+Tuluá,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1111-002,OCCIDENTE
+Ulloa,Valle Del Cauca,KA,Satelital Iridium,OCC-1112-001,OCCIDENTE
+Versalles,Valle Del Cauca,KU,Satelital Iridium,OCC-1113-001,OCCIDENTE
+Versalles,Valle Del Cauca,KU,Satelital Inmarsat,OCC-1113-002,OCCIDENTE
+Vijes,Valle Del Cauca,KU,Satelital Starlink,OCC-1114-001,OCCIDENTE
+Yotoco,Valle Del Cauca,C,Satelital Inmarsat,OCC-1115-001,OCCIDENTE
+Yotoco,Valle Del Cauca,C,Satelital Hughes,OCC-1115-002,OCCIDENTE
+Yumbo,Valle Del Cauca,L,Satelital Hughes,OCC-1116-001,OCCIDENTE
+Yumbo,Valle Del Cauca,KU,Satelital Starlink,OCC-1116-002,OCCIDENTE
+Zarzal,Valle Del Cauca,L,Satelital Hughes,OCC-1117-001,OCCIDENTE
+Zarzal,Valle Del Cauca,KU,Satelital Starlink,OCC-1117-002,OCCIDENTE
+Araracuara,Vaupés,KU,Satelital Iridium,ORI-1118-001,ORIENTE
+Araracuara,Vaupés,L,Satelital Inmarsat,ORI-1118-002,ORIENTE
+Caruru,Vaupés,KU,Satelital Starlink,ORI-1119-001,ORIENTE
+Mitú,Vaupés,KU,Satelital Iridium,ORI-1120-001,ORIENTE
+Pacoa,Vaupés,C,Satelital Hughes,ORI-1121-001,ORIENTE
+Papunaua,Vaupés,KU,Satelital Iridium,ORI-1122-001,ORIENTE
+Taraira,Vaupés,KU,Satelital Iridium,ORI-1123-001,ORIENTE
+Taraira,Vaupés,L,Satelital Starlink,ORI-1123-002,ORIENTE
+Villa Fatima,Vaupés,L,Satelital Hughes,ORI-1124-001,ORIENTE
+Villa Fatima,Vaupés,KU,Satelital Inmarsat,ORI-1124-002,ORIENTE
+Yavaraté,Vaupés,L,Satelital Inmarsat,ORI-1125-001,ORIENTE
+Cumaribo,Vichada,L,Satelital Inmarsat,ORI-1126-001,ORIENTE
+La Primavera,Vichada,KU,Satelital Starlink,ORI-1127-001,ORIENTE
+La Primavera,Vichada,KU,Satelital Iridium,ORI-1127-002,ORIENTE
+Puerto Carreño,Vichada,KA,Satelital Iridium,ORI-1128-001,ORIENTE
+Puerto Carreño,Vichada,KU,Satelital Starlink,ORI-1128-002,ORIENTE
+San Jose De Ocune,Vichada,KA,Satelital Inmarsat,ORI-1129-001,ORIENTE
+Santa Rita,Vichada,L,Satelital Starlink,ORI-1130-001,ORIENTE
+Santa Rita,Vichada,KU,Satelital Starlink,ORI-1130-002,ORIENTE
+Santa Rosalía,Vichada,C,Satelital Iridium,ORI-1131-001,ORIENTE
+Santa Rosalía,Vichada,L,Satelital Inmarsat,ORI-1131-002,ORIENTE

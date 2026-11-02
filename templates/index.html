@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cotizador Satelital</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos.css') }}">
+</head>
+<body>
+    <header class="topbar">
+        <div class="brand">
+            <span class="brand-mark">C</span>
+            <span>Cotizador Satelital</span>
+        </div>
+        <nav class="nav-links">
+            <a href="{{ url_for('index') }}">Inicio</a>
+            {% if current_user.is_authenticated %}
+                <span class="user-greet">Hola, {{ current_user.username }}</span>
+                {% if current_user.role == 'admin' %}
+                    <a href="{{ url_for('admin_panel') }}">Administracion</a>
+                    <a href="{{ url_for('register') }}">Crear usuario</a>
+                {% endif %}
+                <a href="{{ url_for('logout') }}">Cerrar sesión</a>
+            {% else %}
+                <a href="{{ url_for('login') }}">Login</a>
+                <a href="{{ url_for('register') }}">Registro</a>
+            {% endif %}
+        </nav>
+    </header>
+
+    <main class="hero">
+        <section class="hero-copy">
+            <p class="eyebrow">Soluciones de conectividad</p>
+            <h1>Encuentra el plan perfecto para tu ciudad.</h1>
+            <p class="subtitle">Consulta municipios, cobertura y ofertas disponibles en un solo lugar.</p>
+            <div class="hero-actions">
+                {% if current_user.is_authenticated %}
+                    <span class="user-greet">Hola, {{ current_user.username }}</span>
+                    <a class="btn secondary" href="{{ url_for('logout') }}">Cerrar sesión</a>
+                {% else %}
+                    <a class="btn primary" href="{{ url_for('register') }}">Crear cuenta</a>
+                    <a class="btn secondary" href="{{ url_for('login') }}">Iniciar sesión</a>
+                {% endif %}
+            </div>
+        </section>
+
+        <section class="stats-card">
+            <div class="stat">
+                <strong>{{ municipios|length }}</strong>
+                <span>Municipios</span>
+            </div>
+            <div class="stat">
+                <strong>{{ coberturas|length }}</strong>
+                <span>Coberturas</span>
+            </div>
+            <div class="stat">
+                <strong>{{ planes|length }}</strong>
+                <span>Planes</span>
+            </div>
+        </section>
+    </main>
+
+    <section class="filter-box">
+        <div style="display:flex;gap:8px;align-items:center;margin-bottom:8px;">
+            <button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-form">
+                Filtros <span id="filter-toggle-icon" aria-hidden="true">▾</span>
+                <span class="sr-only">Mostrar filtros</span>
+            </button>
+            <span class="filter-hint" style="color:var(--muted);font-weight:600">Alterna la barra para buscar municipios, planes, banda y satélite</span>
+        </div>
+        <form id="filter-form" class="filter-form collapsed" method="get" aria-hidden="true">
+            <label for="municipio">Filtrar por municipio (escribe para buscar)</label>
+            <div class="filter-row">
+                <input list="municipios-list" id="municipio" name="municipio" placeholder="Escribe un municipio" value="{{ selected_municipio }}">
+                <datalist id="municipios-list">
+                    {% for municipio in municipios %}
+                        <option value="{{ municipio.nombre }}">{{ municipio.nombre }}</option>
+                    {% endfor %}
+                </datalist>
+
+                <label for="plan" style="margin-left:8px">Filtrar plan</label>
+                <input list="planes-list" id="plan" name="plan" placeholder="Escribe un plan" value="{{ selected_plan }}">
+                <datalist id="planes-list">
+                    {% for p in all_plans %}
+                        <option value="{{ p.nombre }}">{{ p.nombre }}</option>
+                    {% endfor %}
+                </datalist>
+
+                <label for="banda" style="margin-left:8px">Banda</label>
+                <input list="bandas-list" id="banda" name="banda" placeholder="Filtrar por banda" value="{{ selected_banda|default('') }}">
+                <datalist id="bandas-list">
+                    {% for b in bandas_options %}
+                        <option value="{{ b }}">{{ b }}</option>
+                    {% endfor %}
+                </datalist>
+
+                <label for="satelite" style="margin-left:8px">Satélite</label>
+                <input list="satelites-list" id="satelite" name="satelite" placeholder="Filtrar por satélite" value="{{ selected_satelite|default('') }}">
+                <datalist id="satelites-list">
+                    {% for s in satelite_options %}
+                        <option value="{{ s }}">{{ s }}</option>
+                    {% endfor %}
+                </datalist>
+
+                <button type="submit">Filtrar</button>
+                <button type="reset" class="btn secondary" style="margin-left:8px" id="reset-btn">Limpiar campos</button>
+                <a class="btn secondary" href="{{ url_for('index') }}" style="margin-left:8px">Ver todo (recargar)</a>
+            </div>
+        </form>
+    </section>
+    <section class="quote-box">
+        <div class="panel-header">
+            <h2>Generar cotización</h2>
+            <span class="badge success">Preventa</span>
+        </div>
+        <form class="quote-form" method="post" action="{{ url_for('index') }}">
+            <div class="quote-field">
+                <label for="quote-municipio">Municipio</label>
+                <select id="quote-municipio" name="municipio" required>
+                    <option value="" disabled selected>Selecciona un municipio</option>
+                    {% for municipio in municipios %}
+                        <option value="{{ municipio.nombre }}">{{ municipio.nombre }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="quote-field">
+                <label for="quote-capacidad">Capacidad requerida (Mbps)</label>
+                <input type="number" id="quote-capacidad" name="capacidad" min="1" step="1" placeholder="Ej. 20" required>
+            </div>
+            <button type="submit">Cotizar servicio</button>
+        </form>
+        <div class="bulk-quote">
+            <div>
+                <strong>Consultas masivas</strong>
+                <small>Sube un CSV o Excel con las columnas municipio y capacidad.</small>
+            </div>
+            <form class="bulk-form" method="post" action="{{ url_for('cargar_consultas_masivas') }}" enctype="multipart/form-data">
+                <input type="file" name="archivo_consultas" accept=".csv,.xlsx" required>
+                <button type="submit" class="btn secondary">Generar preofertas</button>
+            </form>
+        </div>
+    </section>
+    <script>
+        // Hacer que el botón reset funcione correctamente
+        document.getElementById('reset-btn').addEventListener('click', function(e){
+            e.preventDefault();
+            document.getElementById('filter-form').reset();
+            // Redirigir a index sin parámetros para limpiar
+            window.location.href = '{{ url_for("index") }}';
+        });
+    </script>
+    <script>
+        (function(){
+            var btn = document.getElementById('filter-toggle');
+            var form = document.querySelector('.filter-form');
+            var expanded = false;
+            btn.addEventListener('click', function(){
+                expanded = !expanded;
+                if(expanded){
+                    form.classList.remove('collapsed');
+                    form.classList.add('expanded');
+                    btn.setAttribute('aria-expanded','true');
+                    form.setAttribute('aria-hidden','false');
+                    var icon = document.getElementById('filter-toggle-icon'); if(icon) icon.innerText = '▴';
+                    var sr = btn.querySelector('.sr-only'); if(sr) sr.innerText = 'Ocultar filtros';
+                    btn.classList.add('open');
+                } else {
+                    form.classList.add('collapsed');
+                    form.classList.remove('expanded');
+                    btn.setAttribute('aria-expanded','false');
+                    form.setAttribute('aria-hidden','true');
+                    var icon = document.getElementById('filter-toggle-icon'); if(icon) icon.innerText = '▾';
+                    var sr = btn.querySelector('.sr-only'); if(sr) sr.innerText = 'Mostrar filtros';
+                    btn.classList.remove('open');
+                }
+            });
+            // Always start collapsed; do not auto-open even if inputs are prefilled
+        })();
+    </script>
+
+    <section class="cards-grid">
+        {% if satelites_mismatch and satelites_mismatch|length > 0 %}
+            <div class="alert alert-danger">
+                Advertencia: los siguientes satélites en `data/planes.csv` no coinciden con `data/cobertura.csv`: {{ satelites_mismatch | join(', ') }}.
+            </div>
+        {% endif %}
+        {% if resultado and resultado.error %}
+            <div class="alert alert-danger">
+                {{ resultado.error }}
+            </div>
+        {% endif %}
+        {% if resultado and not resultado.error %}
+            <article class="panel quote-result">
+                <div class="panel-header">
+                    <h2>Resultado de la cotización</h2>
+                    <span class="badge success">Cobertura confirmada</span>
+                </div>
+                <div class="quote-grid">
+                    <div><span>Municipio</span><strong>{{ resultado.municipio }}</strong></div>
+                    <div><span>Beam</span><strong>{{ resultado.beam }}</strong></div>
+                    <div><span>Satélite</span><strong>{{ resultado.satelite }}</strong></div>
+                    <div><span>Banda</span><strong>{{ resultado.banda }}</strong></div>
+                    <div><span>Plan</span><strong>{{ resultado.plan }}</strong></div>
+                    <div><span>Capacidad a aprovisionar</span><strong>{{ resultado.capacidad }} Mbps</strong></div>
+                    <div><span>Antena</span><strong>{{ resultado.antena }}</strong></div>
+                    <div><span>Módem</span><strong>{{ resultado.modem }}</strong></div>
+                    <div><span>Costo mensual</span><strong>${{ '{:,.0f}'.format(resultado.costo_usd) }} USD</strong></div>
+                </div>
+                <a class="btn primary download-btn" href="{{ url_for('descargar_preoferta', municipio=resultado.municipio, capacidad=resultado.capacidad) }}">
+                    Descargar preoferta Excel
+                </a>
+            </article>
+        {% endif %}
+        <details class="panel municipalities-panel">
+            <summary class="panel-header">
+                <h2>Municipios</h2>
+                <span class="badge">Ciudades</span>
+            </summary>
+            {% if selected_municipio %}
+                <p class="filter-summary">Mostrando resultados para: <strong>{{ selected_municipio }}</strong></p>
+            {% endif %}
+            {% if visible_municipios and visible_municipios|length > 0 %}
+                <ul class="list">
+                    {% for municipio in visible_municipios %}
+                        <li>
+                            <div>{{ municipio.nombre }}</div>
+                            {% if municipio.beam or municipio.satelite or municipio.banda %}
+                                <small class="muted">Cobertura:
+                                    {% if municipio.satelite %}{{ municipio.satelite }}{% endif %}
+                                    {% if municipio.banda %}- {{ municipio.banda }}{% endif %}
+                                    {% if municipio.beam %}- Beam: {{ municipio.beam }}{% endif %}
+                                </small>
+                            {% else %}
+                                <small class="muted">Sin información de cobertura</small>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p class="empty">No se encontraron municipios para el filtro seleccionado.</p>
+            {% endif %}
+        </details>
+
+        <article class="panel">
+            <div class="panel-header">
+                <h2>Cobertura</h2>
+                <span class="badge accent">Red</span>
+            </div>
+                {% if coberturas and coberturas|length > 0 %}
+                <ul class="list">
+                    {% for item in coberturas %}
+                        <li>{{ item.satelite }}</li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p class="empty">No hay información de cobertura disponible.</p>
+            {% endif %}
+        </article>
+
+        <article class="panel">
+            <div class="panel-header">
+                <h2>Planes</h2>
+                <span class="badge success">Ofertas</span>
+            </div>
+                {% if (selected_banda or selected_satelite) and not plans_have_coverage_info %}
+                    <p class="empty">Los planes no contienen datos de compatibilidad por banda/satélite; no se aplicó filtrado por cobertura.</p>
+                {% endif %}
+                {% if planes and planes|length > 0 %}
+                <ul class="plan-list">
+                    {% for plan in planes %}
+                        <li>
+                            <div>
+                                <strong>{{ plan.nombre }}</strong>
+                                <small>Internet y voz</small>
+                                {% if coverage_for_selected %}
+                                    <div class="muted">Cobertura en {{ selected_municipio }}: {{ coverage_for_selected.satelite }} - {{ coverage_for_selected.banda }} {% if coverage_for_selected.beam %}- Beam: {{ coverage_for_selected.beam }}{% endif %}</div>
+                                {% endif %}
+                            </div>
+                            {% if plan.precio is not none %}
+                                <span>${{ '{:,.0f}'.format(plan.precio) }}</span>
+                            {% else %}
+                                <span>-</span>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p class="empty">No hay planes disponibles en este momento.</p>
+            {% endif %}
+        </article>
+    </section>
+</body>
+</html>
