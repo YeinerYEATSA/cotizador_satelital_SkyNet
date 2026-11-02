@@ -115,6 +115,24 @@ with app.app_context():
                 text("ALTER TABLE user ADD COLUMN role VARCHAR(20) NOT NULL DEFAULT 'usuario'")
             )
 
+    admin_username = os.environ.get("ADMIN_USERNAME", "").strip()
+    admin_password = os.environ.get("ADMIN_PASSWORD", "")
+    if bool(admin_username) != bool(admin_password):
+        raise RuntimeError("Defina ADMIN_USERNAME y ADMIN_PASSWORD para crear el administrador")
+    if admin_username and admin_password:
+        admin_user = User.query.filter_by(username=admin_username).first()
+        if admin_user is None:
+            admin_user = User(
+                username=admin_username,
+                password=generate_password_hash(admin_password),
+                role="admin",
+            )
+            db.session.add(admin_user)
+        else:
+            admin_user.password = generate_password_hash(admin_password)
+            admin_user.role = "admin"
+        db.session.commit()
+
 
 # =========================================================
 # RUTAS DE ARCHIVOS
